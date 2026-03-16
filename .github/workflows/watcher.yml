@@ -1,0 +1,60 @@
+name: eBay Watcher
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Ensure state file exists
+        run: |
+          mkdir -p data
+          test -f data/state.json || printf '{\n  "stores": {}\n}\n' > data/state.json
+
+      - name: Run watcher once
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+          SCAN_INTERVAL_SECONDS: "30"
+          FIRST_RUN_NOTIFY: "false"
+          RUN_ENV: "github-actions"
+          EBAY_COOKIE_HEADER: ${{ secrets.EBAY_COOKIE_HEADER }}
+          EBAY_US_ZIP: "19808"
+          EBAY_LOCALE: "en-US"
+          EBAY_TIMEZONE: "America/New_York"
+          EBAY_SORT_ORDER: "10"
+          EBAY_PAGE_SIZE: "60"
+        run: npm run start:once
+
+      - name: Commit updated state
+        run: |
+          if git diff --quiet -- data/state.json; then
+            echo "No state changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/state.json
+          git commit -m "Update watcher state"
+          git push

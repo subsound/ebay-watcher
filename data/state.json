@@ -1,0 +1,1863 @@
+{
+  "stores": {
+    "smartresale": {
+      "initialized": true,
+      "lastScanAt": "2026-03-16T18:39:09.238Z",
+      "knownItems": {
+        "227254845855": {
+          "title": "HP Elitebook X360 1040 G7 14\" i7-10610U 1.8GHz 16GB RAM SEM SSD - Grau D",
+          "url": "https://www.ebay.com/itm/227254845855?itmmeta=01KKVWS8S05BXS2Z0GTWSXDMG2&hash=item34e971c19f:g:fasAAeSwAZNpqI9z",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227222281959": {
+          "title": "Apple MacBook Air 2024 A3113 13\" M3 16GB RAM 512GB SSD - Novo na Caixa",
+          "url": "https://www.ebay.com/itm/227222281959?itmmeta=01KKVXFCXTVSY4B1V24Q03H0X2&hash=item34e780dee7:g:dokAAeSw~pNpldV7",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227248950053": {
+          "title": "Dell Inspiron 16 7630 2 em 1 i7-1360P 16GB RAM 1TB SSD-Leia a descrição #2",
+          "url": "https://www.ebay.com/itm/227248950053?itmmeta=01KKVWS8S0J158GTBZVMT6WJTW&hash=item34e917cb25:g:uicAAeSwLfppryfV",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227243603889": {
+          "title": "Teclado sem fio Apple Magic com Touch ID - A2449 - Branco - Novo",
+          "url": "https://www.ebay.com/itm/227243603889?itmmeta=01KKVZ3PAZKMV2D0ZH9PPH4X4G&hash=item34e8c637b1:g:ukgAAeSwmrdpqcPm",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227242203534": {
+          "title": "SSD Elite Dragonfly G3 i7 13,5\" 32GB RAM 512GB - Grau D",
+          "url": "https://www.ebay.com/itm/227242203534?itmmeta=01KKVWS8S03N61ZT5AH22WNCW2&hash=item34e8b0d98e:g:Hc0AAeSw635pqISL",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227248945029": {
+          "title": "SSD Dell Latitude 5430 i7 14\" 4.7 GHz 16Gb 512Gb - Leia a descrição #3",
+          "url": "https://www.ebay.com/itm/227248945029?epid=14070720104&itmmeta=01KKVWS8S0CCM6A3ECHGEHVM96&hash=item34e917b785:g:WAkAAeSwSMppryZp",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "226896336842": {
+          "title": "Apple MacBook Pro 2023 A2780 16\" M2 Pro 16GB RAM 512GB SSD - Grau D",
+          "url": "https://www.ebay.com/itm/226896336842?itmmeta=01KKVWS8S030ZTN342AMVQ7JBF&hash=item34d41357ca:g:KZcAAeSwPelpJxQy",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227116588409": {
+          "title": "SSD Classe D HP Elite Dragonfly G3 13,5\" i7-1265U 32GB RAM 512GB -",
+          "url": "https://www.ebay.com/itm/227116588409?itmmeta=01KKVWS8S0Q1QJAP8MF2ZY5YFB&hash=item34e1341d79:g:2K0AAeSwqOJpMgtC",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227214639262": {
+          "title": "Carregador rápido Google Pixel Flex porta dupla 67W USB-C (GA09856-US) - Novo",
+          "url": "https://www.ebay.com/itm/227214639262?epid=19086674602&itmmeta=01KKVXFCXWRKBJHB9VT980JG7N&hash=item34e70c409e:g:h0sAAeSwHbtpji6Z",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227248915236": {
+          "title": "Apple iPad 7ª Geração - 128GB -Wi-Fi + Celular (Desbloqueado) - LEIA A DESCRIÇÃO #9",
+          "url": "https://www.ebay.com/itm/227248915236?itmmeta=01KKVWS8S0825QBG98JWD07C09&hash=item34e9174324:g:vpYAAeSwBf9prx-Z",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227254386547": {
+          "title": "Dell Precision 7760 XEON W-11855m 17 \"32GB RAM 1TB SSD Leia a descrição #1",
+          "url": "https://www.ebay.com/itm/227254386547?itmmeta=01KKVWS8S0GYDHAEGYGNCQJ4SM&hash=item34e96abf73:g:ue8AAeSwPqFptARM",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "226987449972": {
+          "title": "Lenovo ThinkPad T14s Gen 3 AMD Ryzen 5 2.9GHZ 16GB 256GB - Muito bom recondicionado",
+          "url": "https://www.ebay.com/itm/226987449972?itmmeta=01KKVXFCXS2W2M412HB0G3TYY2&hash=item34d9819e74:g:q9IAAeSwvuNo0adC",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227258995998": {
+          "title": "SSD HP Elite Dragonfly G3 13,5\" i7-1265U 32GB RAM 512GB - Leia a descrição #1",
+          "url": "https://www.ebay.com/itm/227258995998?itmmeta=01KKVWS8S107C4PZS5RZB1XRE8&hash=item34e9b1151e:g:eJkAAeSwpRtpl3X0",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227253013609": {
+          "title": "Chip Apple Mac Mini 2020 M1 16GB RAM 256GB SSD (Z12N000G0) - Prata - Novo",
+          "url": "https://www.ebay.com/itm/227253013609?epid=23054679041&itmmeta=01KKVZ3PAY85X1EQJ0TSFRNET2&hash=item34e955cc69:g:gggAAeSw2J9psvr1",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227248948427": {
+          "title": "Dell Precision 7760 XEON W-11855M 3.20Ghz 32GB RAM 256GB SSD-Leia a Descrição #2",
+          "url": "https://www.ebay.com/itm/227248948427?itmmeta=01KKVWS8S1Z99CFPXCMFF0XVT6&hash=item34e917c4cb:g:JGgAAeSwn-FprydN",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227248939590": {
+          "title": "Lenovo Thinkpad L13 Yoga Gen 2 i5 13.3\" 2.6GHz 16Gb 256Gb SSD-LEIA A DESCRIÇÃO #3",
+          "url": "https://www.ebay.com/itm/227248939590?itmmeta=01KKVWS8S1P41W78CDJBC6YKHZ&hash=item34e917a246:g:uPIAAeSw99NpryVk",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "226980897560": {
+          "title": "LENOVO THINKPAD X13 GEN 2 13\" i7-1185G7 3.0GHz 16GB 256GB--GRADE D",
+          "url": "https://www.ebay.com/itm/226980897560?itmmeta=01KKVWS8S1KSBY680D6DVSACWX&hash=item34d91da318:g:bB8AAeSwtslozBM8",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227249941601": {
+          "title": "SSD Dell Precision 5560 15.6\" i7 2.3GHz 16GB RAM 1TB - Leia a descrição",
+          "url": "https://www.ebay.com/itm/227249941601?itmmeta=01KKVWS8S1MHZ6YZW80JAQ2TBP&hash=item34e926ec61:g:hAkAAeSwnWRpqHRd",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227254806471": {
+          "title": "SSD Elite Dragonfly G3 i7-1265U 32GB RAM 512GB - Leia a descrição",
+          "url": "https://www.ebay.com/itm/227254806471?itmmeta=01KKVWS8S1VTKWV66M6H3J9CXF&hash=item34e97127c7:g:y0oAAeSwINRptFa5",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227248927649": {
+          "title": "Apple iPad 7ª Geração - 128GB -Wi-Fi + Celular (Desbloqueado) - LEIA A DESCRIÇÃO #1",
+          "url": "https://www.ebay.com/itm/227248927649?epid=20051491059&itmmeta=01KKVWS8S12G4C3BHBTMXT2VNY&hash=item34e91773a1:g:2gAAAeSwAFRpryMR",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "226134171004": {
+          "title": "HP Elitebook x360 1040 G7 i7 1.1Ghz 16GB Ram 512GB SSD grau D",
+          "url": "https://www.ebay.com/itm/226134171004?itmmeta=01KKVWS8S17X22KZ31TB4ZE59Y&hash=item34a6a59d7c:g:m4YAAeSwlNtpqHzh",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227243407209": {
+          "title": "Adaptador USB-C para USB Apple fabricante de equipamento original 2017 - Branco - Novo",
+          "url": "https://www.ebay.com/itm/227243407209?itmmeta=01KKVZ3PAZ17RFGNFR6DZ942KR&hash=item34e8c33769:g:A5sAAeSwIQ9pqaL9",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227248656692": {
+          "title": "HP Elitebook x360 1040 G8 14\" - i7 3.0GHz - 32GB - SEM SSD - Grau D",
+          "url": "https://www.ebay.com/itm/227248656692?itmmeta=01KKVWS8S1FGWYGYESN9ZR6D05&hash=item34e9135134:g:xzgAAeSw6IJprtpJ",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227102797506": {
+          "title": "Google Pixel 6 Pro 256GB Desbloqueado - Preto Tempestuoso - Excelente Recondicionado",
+          "url": "https://www.ebay.com/itm/227102797506?epid=9050333648&itmmeta=01KKVXFCXSWE3WC2S6X79GE36F&hash=item34e061aec2:g:M2MAAeSw~DRpJdN3",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227201756729": {
+          "title": "Lenovo ThinkPad X1 Nano Gen 1 13\" i7 16GB RAM 512GB SSD grau D",
+          "url": "https://www.ebay.com/itm/227201756729?itmmeta=01KKVWS8S1R5N1EFZ7T87YCJ2P&hash=item34e647ae39:g:oikAAeSwqDtpgm5Z",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227248929746": {
+          "title": "Apple iPad Pro - 128GB -Wi-Fi + Celular (Desbloqueado) - LEIA A DESCRIÇÃO #2",
+          "url": "https://www.ebay.com/itm/227248929746?itmmeta=01KKVWS8S1FTH64BJBSF3EFS37&hash=item34e9177bd2:g:xuIAAeSwZqVpryNu",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227165958868": {
+          "title": "SSD Dell XPS 13 9310 13\" i7-1185G7 32GB RAM 1TB - Muito bom recondicionado",
+          "url": "https://www.ebay.com/itm/227165958868?itmmeta=01KKVXFCXRW87A6VW4GYS4MRG8&hash=item34e42572d4:g:8nsAAeSwnmBpX9vS",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227210357195": {
+          "title": "Campainha Google Nest | Bateria - Câmera campainha sem fio (GA03013-US) - Nova",
+          "url": "https://www.ebay.com/itm/227210357195?itmmeta=01KKVXFCXS5YJN1DCTFAAM6NXK&hash=item34e6cae9cb:g:iWgAAeSw2Mppikiw",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227146683406": {
+          "title": "Google Pixel 6 256GB Desbloqueado - Preto Tempestuoso - Excelente Recondicionado",
+          "url": "https://www.ebay.com/itm/227146683406?epid=27050331304&itmmeta=01KKVXFCXR5WMFX845PN6X7WG1&hash=item34e2ff540e:g:2l4AAeSwsoNpSYJ-",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227259221953": {
+          "title": "Google Pixel 7 128GB - Obsidiana - T-Mobile bloqueado - Excelente recondicionado",
+          "url": "https://www.ebay.com/itm/227259221953?epid=24064995571&itmmeta=01KKVZ3PAXE5P1A7Z0HXTNYSQ6&hash=item34e9b487c1:g:O5IAAeSwq0tpuBwc",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227230820205": {
+          "title": "Google Pixel 4 - 64GB Desbloqueado - Branco Claro - Excelente Recondicionado",
+          "url": "https://www.ebay.com/itm/227230820205?epid=6034780936&itmmeta=01KKVZ3PAZRAYS50YDFEJZRYW1&hash=item34e803276d:g:YKoAAeSwNIxpnfX8",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227242106628": {
+          "title": "Mouse sem fio Apple Magic Mouse 2 A1657 prata - Novo",
+          "url": "https://www.ebay.com/itm/227242106628?itmmeta=01KKVZ3PAZ5TYNJJ005FR3VRBP&hash=item34e8af5f04:g:iXsAAeSwGvtpqGfT",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227259269150": {
+          "title": "Apple MacBook Air 2024 A3113 13\"- M3 - 24GB RAM - 512GB SSD - Bom recondicionado",
+          "url": "https://www.ebay.com/itm/227259269150?itmmeta=01KKVZ3PAX42Q409CJE1DVMV8E&hash=item34e9b5401e:g:dEcAAeSw4JZpuCT1",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227203110568": {
+          "title": "Tablet Google Pixel - Tablet Android 256GB, 11\" Hazel - Bom Recondicionado",
+          "url": "https://www.ebay.com/itm/227203110568?itmmeta=01KKVXFCXSXK3JBWF2AJETNW7V&hash=item34e65c56a8:g:nZcAAeSwjdlpg7PT",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227164697778": {
+          "title": "SSD Dell Precision 5560 15.6\" i7 2.5GHz 64GB RAM 512GB - Grau D",
+          "url": "https://www.ebay.com/itm/227164697778?itmmeta=01KKVWS8S27VNF9BS5TCQ9JGHG&hash=item34e41234b2:g:smQAAeSwPLdpXsK9",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227230619503": {
+          "title": "Lenovo Thinkpad T15 Gen 2i 15.6\" i5-1135G7 2.4Ghz 8GB RAM 256GB SSD - Grau D",
+          "url": "https://www.ebay.com/itm/227230619503?itmmeta=01KKVWS8S2AK3RRHGPNYJBCAAY&hash=item34e800176f:g:ozAAAeSwQSxpncdG",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "226906957757": {
+          "title": "HP ZBook Firefly G10 14\" RYZEN 7 PRO 7840HS 16GB 512GB - Muito bom recondicionado",
+          "url": "https://www.ebay.com/itm/226906957757?itmmeta=01KKVXFCXTTNDR9CPZ48PRKJFB&hash=item34d4b567bd:g:-AgAAeSwTVRok7GA",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227254810142": {
+          "title": "SSD Elite Dragonfly G3 i7-1265U 32GB RAM 512GB - Leia a descrição #1",
+          "url": "https://www.ebay.com/itm/227254810142?itmmeta=01KKVWS8S2EG6E6RQKKCT9NXXV&hash=item34e971361e:g:y0oAAeSwINRptFa5",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "226144030489": {
+          "title": "APPLE IPHONE 12 256GB - DESBLOQUEADO - PRETO - GRAU D",
+          "url": "https://www.ebay.com/itm/226144030489?epid=9041711132&itmmeta=01KKVWS8S2REYC3QVZ3Z5773E2&hash=item34a73c0f19:g:01gAAOSwcSpnxhsG",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "226762546107": {
+          "title": "Apple iPad Pro A2014 3ª geração 12,9\" (Wi-Fi + LTE, 64GB) prata desbloqueado \"grau D\"",
+          "url": "https://www.ebay.com/itm/226762546107?itmmeta=01KKVWS8S2R5KD7AGBMDR4MK8F&hash=item34cc19dbbb:g:GYkAAOSwv0VoKzDE",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227252931632": {
+          "title": "Lenovo ThinkPad T14s Gen 3 AMD Ryzen 5 PRO 2.9 GHZ 16GB 256GB - Bom recondicionado",
+          "url": "https://www.ebay.com/itm/227252931632?itmmeta=01KKVZ3PAYSYA510GJC2HNTWGG&hash=item34e9548c30:g:NM4AAeSwOn9psu6L",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227252816629": {
+          "title": "Google Fitbit Sense Health Watch+ aplicativo ECG - FB512GLWT - Ouro macio - Novo na caixa",
+          "url": "https://www.ebay.com/itm/227252816629?itmmeta=01KKVZ3PAYG40XCV2CT0BGQ6NZ&hash=item34e952caf5:g:khgAAeSwyIRpstkN",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "226134846637": {
+          "title": "HP Elitebook x360 1040 G8 - I7 14\" Touch 3.0Ghz 16 GB 512GB Grau D",
+          "url": "https://www.ebay.com/itm/226134846637?itmmeta=01KKVWS8S2ZYB0W1YNA2735RF7&hash=item34a6afecad:g:FEwAAOSwiXhmOqfP",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "226798477794": {
+          "title": "Apple iPhone 12 128GB - Azul - Desbloqueado - Grau D",
+          "url": "https://www.ebay.com/itm/226798477794?epid=16041709972&itmmeta=01KKVWS8S36HHR5EER8AK7PAHD&hash=item34ce3e21e2:g:kpwAAeSwMq9on01y",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227192705981": {
+          "title": "SSD HP Zbook Power G8 i9-11950H 2.6GHz 64GB RAM 1TB - Grau D",
+          "url": "https://www.ebay.com/itm/227192705981?itmmeta=01KKVWS8S338CWHWHATNH63EPC&hash=item34e5bd93bd:g:R~gAAeSw40JpejLf",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "226825536290": {
+          "title": "Google Pixel 7 Pro 128GB Obsidiana - Desbloqueado - Excelente Recondicionado",
+          "url": "https://www.ebay.com/itm/226825536290?epid=17056925727&itmmeta=01KKVXFCXTP0XKJ8ZYMRXTWAAV&hash=item34cfdb0322:g:mmcAAeSw7EFpQu9a",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "226369256714": {
+          "title": "HP ZBOOK FIREFLY G8 15\" i7 3.0GHz 16GB 256GB--GRAU D",
+          "url": "https://www.ebay.com/itm/226369256714?itmmeta=01KKVWS8S3JQGQDNCNNZ7RG9E1&hash=item34b4a8bd0a:g:wOYAAOSwDVpnl-ue",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227254817346": {
+          "title": "HP Elitebook x360 1040 G8 14\" i7 3.0Ghz 32GB 512GB - Leia a descrição",
+          "url": "https://www.ebay.com/itm/227254817346?itmmeta=01KKVWS8S3M5M43SRS1W43M09N&hash=item34e9715242:g:QM4AAeSwemZpl2~l",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "225676723358": {
+          "title": "Apple MacBook Pro A2442 2021 14\"- M1 PRO - 16GB RAM - 512GB SSD - Grau D",
+          "url": "https://www.ebay.com/itm/225676723358?itmmeta=01KKVWS8S34HAZJNQNDZZD9812&hash=item348b61849e:g:iPMAAOSwl9lnxepH",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "225564899042": {
+          "title": "APPLE MACBOOK PRO TOUCHBAR 2018 A1990 i9 2.9GHz 16GB 512GB GRAU D",
+          "url": "https://www.ebay.com/itm/225564899042?itmmeta=01KKVWS8S3PSJDXB63GGWXSAPH&hash=item3484b736e2:g:Z84AAeSwJYJpFgX9",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227094685339": {
+          "title": "Google Pixel 6 Pro 256GB - Desbloqueado - Branco Nublado - Excelente Recondicionado",
+          "url": "https://www.ebay.com/itm/227094685339?epid=2321383088&itmmeta=01KKVXFCXRYNC300FB21GCBG9T&hash=item34dfe5e69b:g:j9wAAeSwQ~9pIMYz",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227235048297": {
+          "title": "Apple MacBook Air 2024 A3113 13\"- M3 - 16GB RAM - 512GB SSD - Grau D",
+          "url": "https://www.ebay.com/itm/227235048297?epid=8066268581&itmmeta=01KKVWS8S3BQ93134BYHXHFJ5A&hash=item34e843ab69:g:UmAAAeSw5bNpoeJe",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227254569947": {
+          "title": "Dell Precision 7770 17\" i9-12950HX 64GB RAM 1TB -Grau D",
+          "url": "https://www.ebay.com/itm/227254569947?epid=3061903805&itmmeta=01KKVWS8S3QY0ZPKQQTCFE9RXW&hash=item34e96d8bdb:g:sG0AAeSw4-NptCO9",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "226903462557": {
+          "title": "Apple iPad Air 4ª Geração 256GB - Apenas Wi-Fi - Prata \"Grau D\"",
+          "url": "https://www.ebay.com/itm/226903462557?itmmeta=01KKVWS8S34H0EDMB41ZSK36Q2&hash=item34d480129d:g:pEoAAeSwGIxokPwU",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "225935456703": {
+          "title": "Apple iPhone 11 128GB PRETO - Desbloqueado - Grau D",
+          "url": "https://www.ebay.com/itm/225935456703?epid=13034214281&itmmeta=01KKVWS8S32CPX33Q8AHFDBM6V&hash=item349acd79bf:g:kRMAAOSwBKlmmDXc",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227253196004": {
+          "title": "SSD Dell Latitude 9520 15\" i7-1185G7 3.0GHz 16GB RAM 256GB - Leia a descrição",
+          "url": "https://www.ebay.com/itm/227253196004?itmmeta=01KKVWS8S3JK8G7K20WJR9Q370&hash=item34e95894e4:g:YTcAAeSw6YBpq1UF",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227210329123": {
+          "title": "Suporte Google Pixel - GA03002-US - Branco - Novo Na Caixa",
+          "url": "https://www.ebay.com/itm/227210329123?itmmeta=01KKVXFCXSHDWZ733VF4CF8DER&hash=item34e6ca7c23:g:VPMAAeSwVeRpikFq",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227127629131": {
+          "title": "Google Pixel 6 Pro 128GB Desbloqueado - Preto Tempestuoso - Excelente Recondicionado",
+          "url": "https://www.ebay.com/itm/227127629131?epid=17050334078&itmmeta=01KKVXFCXS5DN3FGZWNW08KWDH&hash=item34e1dc954b:g:eZoAAeSwP2VpOfEJ",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227254595203": {
+          "title": "SSD APPLE MACBOOK AIR 2024 A3113 13\" M3 16GB RAM 512GB - Leia a descrição #4",
+          "url": "https://www.ebay.com/itm/227254595203?itmmeta=01KKVWS8S3B3ZBZ3XC5SRYD1BB&hash=item34e96dee83:g:xmUAAeSwy6RpocRs",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "226853549227": {
+          "title": "SSD Dell Latitude 7430 14\" i7-1265u 16GB RAM 256GB - GRAU D",
+          "url": "https://www.ebay.com/itm/226853549227?itmmeta=01KKVWS8S3JFN225JXC6RSC5AF&hash=item34d18674ab:g:0mAAAeSw-nxoa8AI",
+          "price": null,
+          "firstSeenAt": "2026-03-16T17:58:59.131Z",
+          "lastSeenAt": "2026-03-16T17:58:59.131Z"
+        },
+        "227232347033": {
+          "title": "APPLE MACBOOK AIR 2024 A3113 13\" M3 16GB RAM 512GB SSD \"Excelente - Recondicionado\"",
+          "url": "https://www.ebay.com/itm/227232347033?itmmeta=01KKVZ3PAZVAAKQD16V3AN00RQ&hash=item34e81a7399:g:6g8AAeSw3nxpn0fU",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.221Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227154625043": {
+          "title": "APPLE MACBOOK AIR 2024 A3113 13\" M3 16GB RAM 512GB SSD - Muito bom recondicionado",
+          "url": "https://www.ebay.com/itm/227154625043?itmmeta=01KKVXFCXS8881JWVQYZPYF1NN&hash=item34e3788213:g:DycAAeSwTHlpVYX1",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.221Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227128946708": {
+          "title": "Google Pixel 6 Pro 256GB Desbloqueado - Preto Tempestuoso - Muito Bom Recondicionado",
+          "url": "https://www.ebay.com/itm/227128946708?epid=9050333648&itmmeta=01KKVXFCXSA7FE8CK0ZH8TJZQZ&hash=item34e1f0b014:g:08cAAeSwHmJpPDfG",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.221Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227242032983": {
+          "title": "Google Pixel 7 256GB - Obsidiana - Verizon bloqueado - Excelente recondicionado",
+          "url": "https://www.ebay.com/itm/227242032983?epid=3056929418&itmmeta=01KKVZ3PAZ9FH28DXMDGPXG1WY&hash=item34e8ae3f57:g:K9MAAeSw-LlpqFMC",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.221Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227248924810": {
+          "title": "Google Pixel 10 Pro 256GB - Desbloqueado - Pedra da Lua - Excelente Recondicionado",
+          "url": "https://www.ebay.com/itm/227248924810?epid=7085693779&itmmeta=01KKVZ3PAY5G51SCGSDZ9QF42A&hash=item34e917688a:g:o7oAAeSwytJpryEw",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.221Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227259291957": {
+          "title": "Apple iPhone 13 256GB - Desbloqueado - Meia-noite - Muito bom recondicionado",
+          "url": "https://www.ebay.com/itm/227259291957?epid=19049287637&itmmeta=01KKVZ3PAXJ68PTT589BPFSRNJ&hash=item34e9b59935:g:0mYAAeSw8TRpuChv",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.221Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227202915533": {
+          "title": "Apple iPhone 13 128GB AT&T bloqueado - Rosa - Muito bom recondicionado",
+          "url": "https://www.ebay.com/itm/227202915533?epid=28049285693&itmmeta=01KKVXFCXTSQPM97NWVDTDYGB2&hash=item34e6595ccd:g:AkAAAeSwhMVpg4m6",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.221Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227137218673": {
+          "title": "Google Nest WIFI Pro - GA03691-US - Pacote com 4 - Wi-Fi 6E - Novo na caixa usada",
+          "url": "https://www.ebay.com/itm/227137218673?itmmeta=01KKVXFCXT0ETB21CR81ZZWRFP&hash=item34e26ee871:g:UCwAAeSwhfppZsko",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.221Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227232122806": {
+          "title": "Dell Latitude 7430 14\" i7-1270p 16GB RAM 512GB SSD - Muito bom recondicionado",
+          "url": "https://www.ebay.com/itm/227232122806?itmmeta=01KKVZ3PAZMZ0WY3NBMQZ9A50G&hash=item34e81707b6:g:7rQAAeSwxF1pnxm0",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.221Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227183485860": {
+          "title": "Lenovo Thinkpad X1 Carbon Gen 10 14\" i7-1270P 32GB 512GB - Muito bom recondicionado",
+          "url": "https://www.ebay.com/itm/227183485860?itmmeta=01KKVXFCXTAD4PNC9ZX8B261R8&hash=item34e530e3a4:g:aBIAAeSwHYJpcRKb",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.221Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227204334365": {
+          "title": "Tablet Google Pixel - Tablet Android 128GB, 11\" Branco - Bom Recondicionado",
+          "url": "https://www.ebay.com/itm/227204334365?itmmeta=01KKVXFCXVJXVD5B2MG4G9NF48&hash=item34e66f031d:g:DIAAAeSwEZVphLGe",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.221Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227253105209": {
+          "title": "Lenovo ThinkPad P1 Gen 5 15\" i7-12800H 64GB RAM 1TB SSD-Bom Recondicionado",
+          "url": "https://www.ebay.com/itm/227253105209?itmmeta=01KKVZ3PAYFKB4Z2MZCA75X0ZF&hash=item34e9573239:g:UrcAAeSwmeNpsxWe",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.221Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227166281160": {
+          "title": "HP ZBook Firefly G11 14\" RYZEN 7 PRO 8840HS 16GB 512GB - Muito bom recondicionado",
+          "url": "https://www.ebay.com/itm/227166281160?itmmeta=01KKVXFCXV4GPVA0CS1SBFYCQV&hash=item34e42a5dc8:g:2OwAAeSwUdppYDBC",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.221Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227248983997": {
+          "title": "Google Pixel 10 Pro XL 1TB - Desbloqueado - Obsidiana - Excelente Recondicionado",
+          "url": "https://www.ebay.com/itm/227248983997?epid=7085686908&itmmeta=01KKVZ3PAY5E0HDYPWZ830SDCF&hash=item34e9184fbd:g:W0IAAeSwprZpry7U",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.221Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227211884851": {
+          "title": "Google Pixel 6 Pro 512GB - Desbloqueado - Preto Tempestuoso - Novo",
+          "url": "https://www.ebay.com/itm/227211884851?epid=23051089208&itmmeta=01KKVXFCXVVXJF63MN3YWT6YW1&hash=item34e6e23933:g:fd0AAeSw6m9pi6N8",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.221Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227205809924": {
+          "title": "HP Elitebook x360 1040 G8 14\" i7 3.0Ghz 32GB 512GB - Bom recondicionado",
+          "url": "https://www.ebay.com/itm/227205809924?itmmeta=01KKVXFCXVS5EXAFPGKCVDP3ES&hash=item34e6858704:g:l-cAAeSwwC5phgr8",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.221Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227241931142": {
+          "title": "SSD Elite Dragonfly G3 13,5\" i7-1265U 32GB RAM 512GB - Bom recondicionado",
+          "url": "https://www.ebay.com/itm/227241931142?itmmeta=01KKVZ3PAZSD1T06KNXSF67TJQ&hash=item34e8acb186:g:e1YAAeSwk6RpqDdJ",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.221Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227215743602": {
+          "title": "Google Pixel 7 Pro 128GB Hazel - Desbloqueado - Muito recondicionado",
+          "url": "https://www.ebay.com/itm/227215743602?epid=2327972506&itmmeta=01KKVXFCXVSYT2J4R7QW4QEGCS&hash=item34e71d1a72:g:A0cAAeSw-fVpjzsn",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.221Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227201332713": {
+          "title": "Google Pixel 9a 128GB - Verizon bloqueado - Íris \"novo na caixa\"",
+          "url": "https://www.ebay.com/itm/227201332713?epid=99987781&itmmeta=01KKVXFCXV3W5386XGRXQDSZWF&hash=item34e64135e9:g:jAQAAeSwUOJpgge9",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.221Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227259233616": {
+          "title": "Google Pixel 7 - 256GB - Obsidiana - AT&T Bloqueado - Excelente Recondicionado",
+          "url": "https://www.ebay.com/itm/227259233616?epid=12056915982&itmmeta=01KKVZ3PAXHCMAEW85EBJRHG2R&hash=item34e9b4b550:g:gOkAAeSwkONpuB3u",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.222Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "226510217602": {
+          "title": "SSD Dell Latitude 7330 i5 16Gb RAM 256GB - Bom recondicionado",
+          "url": "https://www.ebay.com/itm/226510217602?itmmeta=01KKVXFCXV6YF0Q1RKPACAJ9VW&hash=item34bd0fa182:g:dxoAAOSweNxnabLT",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.222Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227201439358": {
+          "title": "Google Pixel 9 Pro 256GB - T-Mobile bloqueado - Hazel \"novo na caixa\"",
+          "url": "https://www.ebay.com/itm/227201439358?epid=14072716466&itmmeta=01KKVXFCXV196R25VSYRZSKTXC&hash=item34e642d67e:g:aM8AAeSwXttpgh3J",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.222Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227201269989": {
+          "title": "Google Pixel 7a 128GB - Verizon bloqueado - Mar \"novo na caixa\"",
+          "url": "https://www.ebay.com/itm/227201269989?epid=13060349430&itmmeta=01KKVXFCXVGRS4R1B7XZDHA65F&hash=item34e64040e5:g:hsQAAeSwjbZpgfoq",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.222Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "226906886598": {
+          "title": "SSD Dell Precision 7560 Xeon W-11855M 3.2GHz 32GB RAM 2TB - Muito bom recondicionado",
+          "url": "https://www.ebay.com/itm/226906886598?itmmeta=01KKVXFCXWTZ66XGDN6TFPKTPJ&hash=item34d4b451c6:g:OiwAAeSwiNNok6Ui",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.222Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227213057371": {
+          "title": "Google Pixel 6 Pro - Branco Nublado - 256GB - GA02259-US - Desbloqueado - Novo na Caixa",
+          "url": "https://www.ebay.com/itm/227213057371?epid=2321383088&itmmeta=01KKVXFCXW0RY8C88QH44CMN21&hash=item34e6f41d5b:g:~fgAAeSwKf9pjKCV",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.222Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227253211774": {
+          "title": "SSD Acer Nitro 5 AN517-55 17\" i5-12500H 8GB RAM 512GB - Muito bom RECONDICIONADO",
+          "url": "https://www.ebay.com/itm/227253211774?itmmeta=01KKVZ3PAY5MQQ6VR21A62RY6Q&hash=item34e958d27e:g:m1AAAeSwKL1psE-L",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.222Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227190170391": {
+          "title": "Apple iPhone 16 256GB Preto - AT&T Bloqueado - Muito Bom Recondicionado",
+          "url": "https://www.ebay.com/itm/227190170391?epid=26071476050&itmmeta=01KKVXFCXW6TF28MP6R3JDS2JM&hash=item34e596e317:g:kaoAAeSwfrtpd8HP",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.222Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "226979324348": {
+          "title": "Lenovo Thinkpad T14s Gen 2a Ryzen 5 PRO 2.3GHZ 16GB RAM 256GB - Bom recondicionado",
+          "url": "https://www.ebay.com/itm/226979324348?itmmeta=01KKVXFCXWCWABDRH6NRA2M014&hash=item34d905a1bc:g:dwoAAeSwouVoyuno",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.222Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227177011250": {
+          "title": "Lenovo ThinkPad X13 Gen 2 i7 3.0GHz 16GB RAM 512GB SSD - Bom Recondicionado",
+          "url": "https://www.ebay.com/itm/227177011250?itmmeta=01KKVXFCXW1WR72X29AVQMY6T2&hash=item34e4ce1832:g:ONgAAeSwi5dpaniN",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.222Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227192763529": {
+          "title": "SSD HP Zbook Power G8 i9-11950H 2.6GHz 64GB RAM 1TB - Bom recondicionado",
+          "url": "https://www.ebay.com/itm/227192763529?itmmeta=01KKVXFCXW82JX8JG2NJ0EZTME&hash=item34e5be7489:g:fZUAAeSwqxdpekGX",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.222Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227222183326": {
+          "title": "Samsung Galaxy S23 128GB (SM-S911U1) Desbloqueado - Lavanda \"Muito Bom -Recondicionado\"",
+          "url": "https://www.ebay.com/itm/227222183326?epid=2330090727&itmmeta=01KKVXFCXWPKXYQ0ZHNWCC377P&hash=item34e77f5d9e:g:x2AAAeSw1bxplcFe",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.222Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "226703386375": {
+          "title": "LENOVO THINKPAD X1 CARBON 9TH GEN i7 3.0GHz 16GB RAM 512GB SSD--BOM RECONDICIONADO",
+          "url": "https://www.ebay.com/itm/226703386375?itmmeta=01KKVXFCXWM60G01X0T90K2E1R&hash=item34c8932707:g:GzsAAOSwxxFn~YDZ",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.222Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227176750084": {
+          "title": "Dell Latitude 7330 I7-1265U 13,3\" 16GB RAM 256GB SSD - Bom Recondicionado",
+          "url": "https://www.ebay.com/itm/227176750084?epid=15061004727&itmmeta=01KKVXFCXWNR12Y1J2KTC2478K&hash=item34e4ca1c04:g:Ou8AAeSwtN9paj4f",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.222Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227161811068": {
+          "title": "Lenovo Thinkpad P1 Gen 3 i7 2.6GHz 15'' 2.6GHz 16GB RAM 512GB - Muito boa reforma",
+          "url": "https://www.ebay.com/itm/227161811068?itmmeta=01KKVXFCXWZXY1A1ZCS0YSF5WS&hash=item34e3e6287c:g:hUMAAeSwEWhpoKlI",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.222Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "226896626200": {
+          "title": "SSD Dell Precision 7560 Xeon W-11855M 3.2GHz 32GB RAM 2TB - Bom recondicionado",
+          "url": "https://www.ebay.com/itm/226896626200?itmmeta=01KKVXFCXW6G218C66SBS1DM6R&hash=item34d417c218:g:KyQAAeSwWopoi7jZ",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.222Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227203127337": {
+          "title": "Tablet Google Pixel - Tablet Android 128GB, 11\" Hazel - Bom Recondicionado",
+          "url": "https://www.ebay.com/itm/227203127337?itmmeta=01KKVXFCXXJ5HX0T3VE22Q3MG3&hash=item34e65c9829:g:aoAAAeSwxv5pg7pK",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.222Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227116515540": {
+          "title": "Lenovo ThinkPad P1 Gen 3 Intel Xeon W-10855M 32GB RAM 1TB SSD - Bom Recondicionado",
+          "url": "https://www.ebay.com/itm/227116515540?itmmeta=01KKVXFCXXCT8Z5C1ZM5BYH98K&hash=item34e13300d4:g:pbUAAeSw2uJpMfTv",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.222Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227215997179": {
+          "title": "Dell Latitude 7520 i7 3.00GHz 15\" 16GB RAM 512GB SSD - Bom Recondicionado",
+          "url": "https://www.ebay.com/itm/227215997179?itmmeta=01KKVX8PCTYGPBWRGQD8BDDDDA&hash=item34e720f8fb:g:5QMAAeSwl4lpj3~U",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:07:19.222Z",
+          "lastSeenAt": "2026-03-16T18:07:19.222Z"
+        },
+        "227127681519": {
+          "title": "Lenovo ThinkPad X1 Carbon Gen 12 14\" Ultra 7 32GB 1TB - Muito bom recondicionado",
+          "url": "https://www.ebay.com/itm/227127681519?itmmeta=01KKVXFCXVN66YMH14JKD7YKXA&hash=item34e1dd61ef:g:AVoAAeSwpKVpOxgu",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:10:59.267Z",
+          "lastSeenAt": "2026-03-16T18:10:59.267Z"
+        },
+        "227259192648": {
+          "title": "Google Pixel 7 Pro 256GB - Obsidiana - AT&T Bloqueado - Excelente Recondicionado",
+          "url": "https://www.ebay.com/itm/227259192648?epid=12064990697&itmmeta=01KKVZ3PAXVAC1041R6E84ZXQP&hash=item34e9b41548:g:PFsAAeSwdRtpuBd-",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227254805699": {
+          "title": "SSD Acer TravelMate P414-41 RYZEN 5 PRO 6650U 16GB RAM 512GB - Bom RECONDICIONADO",
+          "url": "https://www.ebay.com/itm/227254805699?itmmeta=01KKVZ3PAXTA0TGGW4ZTDFDZEJ&hash=item34e97124c3:g:NcwAAeSwfJZpsZ-t",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227254803643": {
+          "title": "SSD Acer Swift SFG14-71T - I7-1355U 16GB RAM 512GB - Bom RECONDICIONADO",
+          "url": "https://www.ebay.com/itm/227254803643?itmmeta=01KKVZ3PAXFBWPC7MDS57746C9&hash=item34e9711cbb:g:OQAAAeSww-VpsZn1",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227254750394": {
+          "title": "Acer Travelmate P214-41-g2 RYZEN 5 PRO 8GB RAM 256GB - Muito bom RECONDICIONADO",
+          "url": "https://www.ebay.com/itm/227254750394?itmmeta=01KKVZ3PAYMJGR3ADQWD2Z2STV&hash=item34e9704cba:g:9xIAAeSwX1ZpsZWY",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227254681514": {
+          "title": "Dell Inspiron 14 7420 2 em 1 i7 16GB RAM 512GB SSD grau - muito bom recondicionado",
+          "url": "https://www.ebay.com/itm/227254681514?itmmeta=01KKVZ3PAYD0XNNXA1F8W8SK4S&hash=item34e96f3faa:g:YJgAAeSw2jNptDt3",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227253220610": {
+          "title": "SSD Acer TravelMate Vero V15-51 I5 2.5GHZ 16GB RAM 512GB - Muito bom RECONDICIONADO",
+          "url": "https://www.ebay.com/itm/227253220610?itmmeta=01KKVZ3PAY2D28RFACNKJKJ4JP&hash=item34e958f502:g:RnoAAeSwgvFpsIZn",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227253218630": {
+          "title": "SSD Acer Predator PH16-71 I7-13700HX 16GB RAM 1TB - Muito bom RECONDICIONADO",
+          "url": "https://www.ebay.com/itm/227253218630?itmmeta=01KKVZ3PAY5GK9QMCD985CPD73&hash=item34e958ed46:g:WHkAAeSwrA1psH3~",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227252913081": {
+          "title": "Dell Latitude 7330 13\"- i5-1245U - 16GB RAM - 512GB SSD - Muito bom recondicionado",
+          "url": "https://www.ebay.com/itm/227252913081?itmmeta=01KKVZ3PAYS1XXQMNTMKY0Y9WA&hash=item34e95443b9:g:n6QAAeSwPqFpsuu2",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227251427227": {
+          "title": "Google PIXEL 7A 128GB - Verizon bloqueado - Mar - Excelente - Recondicionado",
+          "url": "https://www.ebay.com/itm/227251427227?epid=13060349430&itmmeta=01KKVZ3PAY6QR3QBTWNJJFWNJK&hash=item34e93d979b:g:p9EAAeSww-Vpsamw",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227251366985": {
+          "title": "Google Pixel 9 Pro 512GB - Desbloqueado - Porcelana - Excelente - Recondicionado",
+          "url": "https://www.ebay.com/itm/227251366985?epid=14072716413&itmmeta=01KKVZ3PAY3J2ZP41Z1A0SAKEF&hash=item34e93cac49:g:aQQAAeSwvwZpsZvm",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227251343854": {
+          "title": "Dell Latitude 5550 15.6\" 'Ultra 7 155U- 16GB RAM 512GB SDD- Bom Recondicionado",
+          "url": "https://www.ebay.com/itm/227251343854?itmmeta=01KKVZ3PAYAXCNTJKS99VGJPG5&hash=item34e93c51ee:g:1fkAAeSwO61psZRk",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227249962164": {
+          "title": "Google Pixel 7 - 128GB - Neve - AT&T Bloqueado - Excelente Recondicionado",
+          "url": "https://www.ebay.com/itm/227249962164?epid=25056912988&itmmeta=01KKVZ3PAYQTFHNVZA6GE3YMSN&hash=item34e9273cb4:g:FlwAAeSwo2xpsDQD",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227249951734": {
+          "title": "Google Pixel 7 - 256GB - Obsidiana - Verizon bloqueado - Bom recondicionado",
+          "url": "https://www.ebay.com/itm/227249951734?epid=3056929418&itmmeta=01KKVZ3PAYRYJ5ARPSWQT0CTX8&hash=item34e92713f6:g:sXIAAeSwGvtpsDEA",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        },
+        "227249018348": {
+          "title": "Google Pixel 6 Pro - 256GB - Verizon bloqueado - Branco nublado - Muito boa reforma",
+          "url": "https://www.ebay.com/itm/227249018348?epid=19050341535&itmmeta=01KKVZ3PAYC91SEH2HK4D2Q3QT&hash=item34e918d5ec:g:Tj8AAeSwchFprzfp",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227248991330": {
+          "title": "Campainha Google Nest câmera 2K (com fio - 3ª geração) linho - Nova na caixa",
+          "url": "https://www.ebay.com/itm/227248991330?itmmeta=01KKVZ3PAY3F0V2VBZZBQ0JMFB&hash=item34e9186c62:g:G-QAAeSwmrdprzDr",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227248989898": {
+          "title": "Google Pixel 6a - 128GB - AT&T bloqueado - Sage - Muito bom recondicionado",
+          "url": "https://www.ebay.com/itm/227248989898?epid=28055639137&itmmeta=01KKVZ3PAYDM305V101MSHHXSF&hash=item34e91866ca:g:-yEAAeSwOJBprzDb",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227248977895": {
+          "title": "Google Pixel 6 Pro 256GB - Desbloqueado - Preto Tempestuoso - Muito Bom Recondicionado",
+          "url": "https://www.ebay.com/itm/227248977895?epid=9050333648&itmmeta=01KKVZ3PAYRD19MXX597J3YEVB&hash=item34e91837e7:g:JmkAAeSwCoZpry52",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227248923153": {
+          "title": "Google Pixel 9 Pro - 512GB - Hazel - Desbloqueado - Muito bom recondicionado",
+          "url": "https://www.ebay.com/itm/227248923153?epid=28071476381&itmmeta=01KKVZ3PAYEG7FDSDXX8R0R76Z&hash=item34e9176211:g:080AAeSwv6JpryGk",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227248915704": {
+          "title": "Google Pixel 9 Pro XL - 256GB - Porcelana - Desbloqueado - Excelente Recondicionado",
+          "url": "https://www.ebay.com/itm/227248915704?epid=11071453723&itmmeta=01KKVZ3PAYQPN4PTWAZ6MDQ1WS&hash=item34e91744f8:g:qW0AAeSwJe1prx-p",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227248898438": {
+          "title": "Google Pixel 10 Pro XL - 256GB - Porcelana - Desbloqueado - Excelente Recondicionado",
+          "url": "https://www.ebay.com/itm/227248898438?itmmeta=01KKVZ3PAYCYAS3DYQ1S1TKYF3&hash=item34e9170186:g:pvkAAeSwi~Jprxy-",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227248885021": {
+          "title": "Google Pixel 7 - 128GB - Obsidiana - Verizon bloqueado - Excelente recondicionado",
+          "url": "https://www.ebay.com/itm/227248885021?epid=2327972416&itmmeta=01KKVZ3PAY4QCVTJJ1WJVTPRXQ&hash=item34e916cd1d:g:RckAAeSwVaZprxgE",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227248868646": {
+          "title": "Google PIXEL 7A 128GB - T-Mobile bloqueado - carvão - Novo na caixa",
+          "url": "https://www.ebay.com/itm/227248868646?epid=5060365012&itmmeta=01KKVZ3PAYHS4W04CVHPQDNNGB&hash=item34e9168d26:g:MeoAAeSw0fFprxNm",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227248855794": {
+          "title": "Apple iPhone 8 64GB - Cinza espacial - AT&T bloqueado - Bom recondicionado",
+          "url": "https://www.ebay.com/itm/227248855794?epid=239054120&itmmeta=01KKVZ3PAZSB9ATHXND0GVQSMV&hash=item34e9165af2:g:9DsAAeSwD2NprwYJ",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227248812567": {
+          "title": "Apple iPhone 13 Mini, 128GB, meia-noite desbloqueado bom recondicionado",
+          "url": "https://www.ebay.com/itm/227248812567?epid=5049289969&itmmeta=01KKVZ3PAZYF4GXRZ0W0BAKQ82&hash=item34e915b217:g:qv8AAeSwKFtprwIM",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227248782531": {
+          "title": "Apple iPhone 8 Plus 64GB - Cinza espacial - AT&T bloqueado - Bom recondicionado",
+          "url": "https://www.ebay.com/itm/227248782531?epid=16071582878&itmmeta=01KKVZ3PAZRVACK3EZ5MT9Y70X&hash=item34e9153cc3:g:u54AAeSwkshprvy7",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227248733903": {
+          "title": "Google Pixel 10 128GB - Desbloqueado - Índigo - Novo na Caixa",
+          "url": "https://www.ebay.com/itm/227248733903?epid=4085687050&itmmeta=01KKVZ3PAZQTX0RXCE59Q2M6K5&hash=item34e9147ecf:g:eoIAAeSwqd9pru9u",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227245333405": {
+          "title": "Google Pixel 6 256GB Verizon Bloqueado - Preto Tempestuoso - Excelente Recondicionado",
+          "url": "https://www.ebay.com/itm/227245333405?epid=6050345595&itmmeta=01KKVZ3PAZHZG1820RTWHK3K5W&hash=item34e8e09b9d:g:6GsAAeSwXJ1pq0yo",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227243575345": {
+          "title": "Dell Latitude 7430 14\" i7-1270P 32GB RAM 512GB recondicionado bom",
+          "url": "https://www.ebay.com/itm/227243575345?itmmeta=01KKVZ3PAZEH56A2YSHD8WC9JM&hash=item34e8c5c831:g:nz8AAeSwMcVpqb9P",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227242299553": {
+          "title": "Apple Magic Trackpad 2 A1535 - Branco - Novo",
+          "url": "https://www.ebay.com/itm/227242299553?itmmeta=01KKVZ3PAZ7VJTE51Z6BDFD12T&hash=item34e8b250a1:g:x3IAAeSw8TRpqKLi",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227242299316": {
+          "title": "Apple Magic Trackpad 2 A1535 (MJR2LL/A) - Branco - Novo",
+          "url": "https://www.ebay.com/itm/227242299316?epid=691318402&itmmeta=01KKVZ3PAZ2GQPE1DX4YN32KTQ&hash=item34e8b24fb4:g:jM0AAeSwM7JpqKLB",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227242206815": {
+          "title": "Dell Latitude 5440 14\" i5-1345U 16GB RAM 256GB SSD-Bom Recondicionado",
+          "url": "https://www.ebay.com/itm/227242206815?itmmeta=01KKVZ3PAZQWJD6GCTH9CHD34S&hash=item34e8b0e65f:g:qiIAAeSwdDdpqIX2",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227239097956": {
+          "title": "Dell Latitude 7330 13.3\" i7-1265U -16GB RAM 256GB SSD - Bom Recondicionado",
+          "url": "https://www.ebay.com/itm/227239097956?epid=1685447822&itmmeta=01KKVZ3PAZB3Q93E95XF2VZCYT&hash=item34e8817664:g:5NsAAeSwra9ppbwc",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227239059072": {
+          "title": "PONTO DE ACESSO SEM FIO CISCI AIRONET AIR-AP3802I-B-K9--NOVO",
+          "url": "https://www.ebay.com/itm/227239059072?itmmeta=01KKVZ3PAZFFG8AGMBBN4QJ9Z6&hash=item34e880de80:g:vzEAAeSwjIRppbUX",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227233715162": {
+          "title": "Lenovo Thinkpad P1 Gen 3 i7-10750H 15\"\" 16GB RAM 512GB SSD - Bom Recondicionado",
+          "url": "https://www.ebay.com/itm/227233715162?itmmeta=01KKVZ3PAZ9ZN9G8JB98XJKCD7&hash=item34e82f53da:g:k1cAAeSweK1poKqa",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227233364637": {
+          "title": "SSD Acer Spin SP513-52N 13.3\" i5 1.60GHz 8GB RAM 256GB - Excelente recondicionado",
+          "url": "https://www.ebay.com/itm/227233364637?itmmeta=01KKVZ3PAZG1EYGM3NZ3WP4GF7&hash=item34e829fa9d:g:zb4AAeSwKtppoFDm",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227233350104": {
+          "title": "Acer Spin SP513-52N 13.3\" i5 1.60GHz 8GB RAM 256GB SSD -Nova Caixa Aberta",
+          "url": "https://www.ebay.com/itm/227233350104?itmmeta=01KKVZ3PAZCAQ71BQ9M5X900N1&hash=item34e829c1d8:g:oeMAAeSw3p9poE0J",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227232143162": {
+          "title": "Lenovo Thinkpad T15 Gen 2i 15.6\" i5-1135G7 8GB RAM 256GB SSD - Muito boa reforma",
+          "url": "https://www.ebay.com/itm/227232143162?itmmeta=01KKVZ3PAZP3XY184EEXKQ4795&hash=item34e817573a:g:gy4AAeSwBvVpnx8U",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227232071431": {
+          "title": "Apple iPhone 12 64GB - Desbloqueado - Verde \"Muito Bom - Recondicionado\"",
+          "url": "https://www.ebay.com/itm/227232071431?epid=18065001217&itmmeta=01KKVZ3PAZS0JRHDFSZG0J763Y&hash=item34e8163f07:g:hQoAAeSwviVpnwq0",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227230728407": {
+          "title": "Apple iPad 5 (2017) 32GB - Prata - (Wi-Fi) - Novo",
+          "url": "https://www.ebay.com/itm/227230728407?epid=235203766&itmmeta=01KKVZ3PAZ592P77WNHB2R9TA9&hash=item34e801c0d7:g:8qYAAeSwFhlpnd6O",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227230667989": {
+          "title": "HP Elitebook X360 1040 G7 i7-10810U 1.10GHz 512GB SSD 16GB 14\" recondicionado bom",
+          "url": "https://www.ebay.com/itm/227230667989?itmmeta=01KKVZ3PAZ4VMM4V4ZJZ1BK2B2&hash=item34e800d4d5:g:3sgAAeSwOPtpndGv",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:39:09.239Z"
+        },
+        "227224078758": {
+          "title": "Apple iPhone 11 128GB - Desbloqueado - Verde - Muito bom recondicionado",
+          "url": "https://www.ebay.com/itm/227224078758?epid=21034217912&itmmeta=01KKVYY22HDXYEYB5XE06S47N3&hash=item34e79c49a6:g:jn8AAeSwy6hpl43w",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:21:06.643Z",
+          "lastSeenAt": "2026-03-16T18:36:04.700Z"
+        },
+        "227259503583": {
+          "title": "Apple MacBook Air 2024 A3113 13\" M3 24GB RAM 512GB SSD - Muito bom recondicionado",
+          "url": "https://www.ebay.com/itm/227259503583?itmmeta=01KKVZ3PAXBGMD71DDNPPA4XVK&hash=item34e9b8d3df:g:omwAAeSwfLxpuEyJ",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:39:09.238Z",
+          "lastSeenAt": "2026-03-16T18:39:09.238Z"
+        }
+      }
+    },
+    "wisetek": {
+      "initialized": true,
+      "lastScanAt": "2026-03-16T18:39:15.033Z",
+      "knownItems": {
+        "389735312466": {
+          "title": "Apple MacBook Pro (13 polegadas, 2020, Two 3, cinza espacial",
+          "url": "https://www.ebay.com/itm/389735312466?itmmeta=01KKVXJQ9EKC43ZDRTWZCZSG4B&hash=item5abe08ec52:g:--wAAeSwnCdpssm2",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389735303874": {
+          "title": "HP 17-CP2025DX 17,3\" 8GB 512GB, Prata",
+          "url": "https://www.ebay.com/itm/389735303874?itmmeta=01KKVXJQ9EKB6QVBF2G6GPE6ZJ&hash=item5abe08cac2:g:MgAAAeSw7x1pssgg",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389735527540": {
+          "title": "Lenovo ThinkPad P1 Gen 5 16\" 32GB 512GB, Preto",
+          "url": "https://www.ebay.com/itm/389735527540?itmmeta=01KKVXJQ9EFWSKMZZATW2QT872&hash=item5abe0c3474:g:W6AAAeSwq8NpstT5",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389735308300": {
+          "title": "Lenovo Thinkpad P53 15.6\" 16GB 512GB, Preto",
+          "url": "https://www.ebay.com/itm/389735308300?itmmeta=01KKVXJQ9FCXWKK7WSDQDEA8KC&hash=item5abe08dc0c:g:3HwAAeSw7mppssi2",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389735530072": {
+          "title": "Lenovo ThinkPad X395 13,3\" 16GB 512GB, Preto",
+          "url": "https://www.ebay.com/itm/389735530072?itmmeta=01KKVZ3VZEVDF4614ZY8HV89MW&hash=item5abe0c3e58:g:0QwAAeSw52VpstSS",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735304191": {
+          "title": "Dell Latitude 5501 15,6\" 16GB 512GB, Preto",
+          "url": "https://www.ebay.com/itm/389735304191?itmmeta=01KKVXJQ9FGN374Q6EKWNHPXTY&hash=item5abe08cbff:g:fz8AAeSwCONpssj0",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389735309063": {
+          "title": "Dell XPS 13 9310 2 em 1 13,4\" 32GB 512GB, Prata",
+          "url": "https://www.ebay.com/itm/389735309063?itmmeta=01KKVXJQ9E9QCHF9JT5E2E1YT6&hash=item5abe08df07:g:p-AAAeSw3jhpssi7",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389735305121": {
+          "title": "HP 17-CN0013DX 17,3\" 8GB 512GB, Prata Natural",
+          "url": "https://www.ebay.com/itm/389735305121?itmmeta=01KKVXJQ9FE8KH9XSPYFMZPD6G&hash=item5abe08cfa1:g:5LYAAeSwk6Bpssgi",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389528894880": {
+          "title": "Chromebook HP Elite Dragonfly 13,5\" 16GB, azul ardósia",
+          "url": "https://www.ebay.com/itm/389528894880?itmmeta=01KKVXJQ9F9EGTFGVEBBJBSJS7&hash=item5ab1bb3da0:g:kXgAAeSwvh5pc2Ds",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389735528101": {
+          "title": "Dell Latitude 5440 14\" 32GB 1TB, Cinza",
+          "url": "https://www.ebay.com/itm/389735528101?itmmeta=01KKVXJQ9FS0EXZ76NY6ZWT86Q&hash=item5abe0c36a5:g:AysAAeSwwNlpstUI",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389558367774": {
+          "title": "Receptor de mídia digital (DM) Bluetooth Pioneer - 9\" - Preto",
+          "url": "https://www.ebay.com/itm/389558367774?itmmeta=01KKVXJQ9ED6QJH9BM8W9RHPN3&hash=item5ab37cf61e:g:vfYAAeSw8VdpfPSf",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389331528436": {
+          "title": "HP Elite Dragonfly G3 13,5\" 32GB 512GB SSD Chrome OS, azul ardósia",
+          "url": "https://www.ebay.com/itm/389331528436?itmmeta=01KKVXJQ9EFMW9BAGT5KBHD4BZ&hash=item5aa5f7aaf4:g:gdkAAeSwTVNphN3S",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389735305444": {
+          "title": "Dell Latitude 7430 14\" 32GB 256GB, Cinza Titânio",
+          "url": "https://www.ebay.com/itm/389735305444?itmmeta=01KKVXJQ9F6E014EGKV977JBS3&hash=item5abe08d0e4:g:i7IAAeSwGBBpsskt",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389528894892": {
+          "title": "Chromebook HP Elite Dragonfly 13,5\" 16GB, azul ardósia",
+          "url": "https://www.ebay.com/itm/389528894892?itmmeta=01KKVXJQ9FYSTTWFA31N8EJT6F&hash=item5ab1bb3dac:g:q4YAAeSw5XJpc2Bx",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389528894891": {
+          "title": "Chromebook HP Elite Dragonfly 13,5\" 32GB, azul ardósia",
+          "url": "https://www.ebay.com/itm/389528894891?itmmeta=01KKVXJQ9FF9J991DW5GCTCMRS&hash=item5ab1bb3dab:g:mDoAAeSwVWFpc2Dl",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389735303678": {
+          "title": "HP Elitebook 845 G7 14\" 16GB 512GB, Prata Natural",
+          "url": "https://www.ebay.com/itm/389735303678?itmmeta=01KKVXJQ9FMRB59JT4J7VX3XRE&hash=item5abe08c9fe:g:91AAAeSwLfppssiK",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389679132452": {
+          "title": "Dell Optiplex 7010 Micro (32GB, 512GB SSD, i7-13700T 1.4GHz) Win11P Preto",
+          "url": "https://www.ebay.com/itm/389679132452?itmmeta=01KKVXJQ9F2KW2RVGMVSJM2TEF&hash=item5abaafaf24:g:6o0AAeSwzNNpogVP",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389735311118": {
+          "title": "Apple MacBook Pro (13 polegadas, 2019, Four 3, cinza espacial",
+          "url": "https://www.ebay.com/itm/389735311118?itmmeta=01KKVXJQ9F7VD27PEDJNZ8FFYF&hash=item5abe08e70e:g:cUMAAeSw0gNpsskY",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "388748638714": {
+          "title": "Anel - Campainha de vídeo Wi-Fi inteligente, alimentada por bateria, bronze veneziano",
+          "url": "https://www.ebay.com/itm/388748638714?itmmeta=01KKVXJQ9FBPYZAHVG87EKVHQH&hash=item5a833979fa:g:FdcAAeSwiehogSDh",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389735303329": {
+          "title": "HP EliteBook 830 G8 13,3\" 16GB 512GB, Prata",
+          "url": "https://www.ebay.com/itm/389735303329?itmmeta=01KKVXJQ9GJARRAFXTAFPXKQQN&hash=item5abe08c8a1:g:Y9sAAeSw2jNpssh2",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389735303689": {
+          "title": "Lenovo Ideapad Flex 5 15ITL05 15.6\" 8GB, Cinza Grafite",
+          "url": "https://www.ebay.com/itm/389735303689?itmmeta=01KKVXJQ9GP3ZE3NP783HGAJ2N&hash=item5abe08ca09:g:~goAAeSwfyppssgS",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389735531119": {
+          "title": "HP 15-EF2013DX 15.6\" 12GB 256GB, Prata",
+          "url": "https://www.ebay.com/itm/389735531119?itmmeta=01KKVZ3VZEC900XDHM2WGP42E0&hash=item5abe0c426f:g:hsMAAeSwYFlpstTi",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735529275": {
+          "title": "Lenovo Thinkpad X1 Carbon Gen 8 14\" 16GB 512GB, Preto",
+          "url": "https://www.ebay.com/itm/389735529275?itmmeta=01KKVZ3VZEMVV7JPZMM3H1G6F2&hash=item5abe0c3b3b:g:sk8AAeSwTB9pstV2",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "388716821369": {
+          "title": "Kit SpaceX Starlink Flat High Performance",
+          "url": "https://www.ebay.com/itm/388716821369?itmmeta=01KKVWWK0AVE7FJ383XPFEGQHM&hash=item5a8153fb79:g:E5oAAeSw4Hlod8iR",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:00:43.169Z"
+        },
+        "389735309061": {
+          "title": "HP Elitebook 845 G8 14\" 16GB 256GB, Prata",
+          "url": "https://www.ebay.com/itm/389735309061?itmmeta=01KKVXJQ9F6N27VNBHDKR3CSAW&hash=item5abe08df05:g:GZYAAeSwePBpssl9",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389457737413": {
+          "title": "Telefone IP Poly Edge B10",
+          "url": "https://www.ebay.com/itm/389457737413?itmmeta=01KKVXJQ9FTMPKBKY4M4Y3WYPC&hash=item5aad7d76c5:g:g2kAAeSwPWlpW7Wg",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "388799317500": {
+          "title": "Dell Latitude 5420 14\" 256GB i5-1135G7, Prata",
+          "url": "https://www.ebay.com/itm/388799317500?itmmeta=01KKVXJQ9G5XKWB9QPSC2PYMH9&hash=item5a863ec5fc:g:xlAAAeSwFTRoklBE",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389735303888": {
+          "title": "Lenovo ThinkPad T14s Gen 2 14\" 8GB 512GB, cinza tempestade",
+          "url": "https://www.ebay.com/itm/389735303888?itmmeta=01KKVXJQ9HQ856CT20Z1S2DRFS&hash=item5abe08cad0:g:cEAAAeSwq1ppsshe",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389365642914": {
+          "title": "Dell Latitude 5411 14\" 512GB i7-10850H, cinza titânio",
+          "url": "https://www.ebay.com/itm/389365642914?itmmeta=01KKVXJQ9GR05QJGVB2NYTYX23&hash=item5aa80036a2:g:70QAAeSwZyppPKkx",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389735318740": {
+          "title": "Apple MacBook Pro (13 polegadas, 2020, Four 3 13,3\", Prata",
+          "url": "https://www.ebay.com/itm/389735318740?itmmeta=01KKVXJQ9GAZA18HMEEMWVZCZ9&hash=item5abe0904d4:g:D8EAAeSwy85pssnd",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389602142526": {
+          "title": "Lenovo ThinkPad T14s Gen 2 14\" 16GB 256GB, Villi Black",
+          "url": "https://www.ebay.com/itm/389602142526?itmmeta=01KKVXJQ9GWFGA07HEGQVB5SRV&hash=item5ab618e93e:g:WIIAAeSwR2dpizis",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389735528097": {
+          "title": "Lenovo ThinkPad P1 Gen 5 16\" 32GB 512GB, Preto",
+          "url": "https://www.ebay.com/itm/389735528097?itmmeta=01KKVXJQ9GTKRVNXDPB6MC9E6Q&hash=item5abe0c36a1:g:xhAAAeSwX6tpstTU",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389735530074": {
+          "title": "HP Zbook 15 G6 15,6\" 16GB 512GB, Prata",
+          "url": "https://www.ebay.com/itm/389735530074?itmmeta=01KKVZ3VZEXG9JBNZ7ZJASDHDB&hash=item5abe0c3e5a:g:~XcAAeSw2yNpstVL",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "388899092277": {
+          "title": "Estação de acoplamento Dell WD19TBS 130W PD, preta",
+          "url": "https://www.ebay.com/itm/388899092277?itmmeta=01KKVXJQ9F0GTJKR5ERKTW8D8S&hash=item5a8c313735:g:L5MAAeSwocVosb6f",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389735304427": {
+          "title": "Lenovo Ideapad 5 15IIL05 15.6\" 16GB, Cinza Grafite",
+          "url": "https://www.ebay.com/itm/389735304427?itmmeta=01KKVXJQ9G2PFZRBBT5Z21Z7AG&hash=item5abe08cceb:g:Pl8AAeSwlVRpssiz",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "388899752532": {
+          "title": "Dell Latitude 7420 14\" 512GB i7-1185G7 WIN11P, carbono",
+          "url": "https://www.ebay.com/itm/388899752532?itmmeta=01KKVXJQ9GGC2XYBVYW9EJA1QV&hash=item5a8c3b4a54:g:giIAAeSwZYVosfaj",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389735318192": {
+          "title": "Apple MacBook Pro (13 polegadas, 2020, Four 3, cinza espacial",
+          "url": "https://www.ebay.com/itm/389735318192?itmmeta=01KKVXJQ9GDRNARQKFTXZZHK8Y&hash=item5abe0902b0:g:HhAAAeSwUappssnR",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "388886785661": {
+          "title": "Disco rígido Toshiba MG Series 14TB 3.5\" SATA Enterprise, 7200RPM (MG07ACA14TEY)",
+          "url": "https://www.ebay.com/itm/388886785661?itmmeta=01KKVXJQ9FTBQ86BAH6BNNZ7ET&hash=item5a8b756e7d:g:ToMAAeSwmxBorhAR",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389735531648": {
+          "title": "Lenovo ThinkPad X395 13,3\" 16GB 512GB, Preto",
+          "url": "https://www.ebay.com/itm/389735531648?itmmeta=01KKVZ3VZE6WK5T0P2FDDJ8KSY&hash=item5abe0c4480:g:6OEAAeSwnQFpstUq",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389707933949": {
+          "title": "Dell Optiplex 3000 SFF (16GB, 256GB SSD, i7-12700T 3.40GHz) Win11P, Preto",
+          "url": "https://www.ebay.com/itm/389707933949?itmmeta=01KKVXJQ9FDGTBEV84T6CJR5NY&hash=item5abc6728fd:g:wBkAAeSwyIRpqwjF",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389665215162": {
+          "title": "Lenovo Thinkpad X1 Carbon Gen 8 14\" 16GB 512GB, Preto",
+          "url": "https://www.ebay.com/itm/389665215162?itmmeta=01KKVXJQ9GMYM7MXMH1PRRB7T2&hash=item5ab9db52ba:g:1ukAAeSw-7ppnh9m",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389379454118": {
+          "title": "Lenovo ThinkPad T14 Gen 3 14\" 512GB, Thunder Black",
+          "url": "https://www.ebay.com/itm/389379454118?itmmeta=01KKVXJQ9G26G9NRPJGZTRDE4P&hash=item5aa8d2f4a6:g:4XoAAeSwjfBpQbjv",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389735308310": {
+          "title": "HP 15-DY5033DX 15,6\" 16GB 512GB, Prata Natural",
+          "url": "https://www.ebay.com/itm/389735308310?itmmeta=01KKVXJQ9HJZ0N8G4VGWW2DK81&hash=item5abe08dc16:g:Gq8AAeSwH4Jpssk0",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "388839167001": {
+          "title": "Receptor multimídia digital Pioneer DMH-W2770NEX 6,8\" duplo din",
+          "url": "https://www.ebay.com/itm/388839167001?itmmeta=01KKVWWK0BG4Z5VZMQA7ADTYXF&hash=item5a889ed419:g:~CwAAeSwHLlonx51",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:00:43.169Z"
+        },
+        "389735307747": {
+          "title": "Lenovo Thinkpad X1 Yoga Gen 6 14\" 32GB, Cinza Tempestade",
+          "url": "https://www.ebay.com/itm/389735307747?itmmeta=01KKVXJQ9G8GG03KTEGNE503PW&hash=item5abe08d9e3:g:j4QAAeSwnQFpsska",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389735303343": {
+          "title": "HP 17-CN0053CL 17,3\" 12GB 2TB, prata natural",
+          "url": "https://www.ebay.com/itm/389735303343?itmmeta=01KKVWWK0B0A07SV3C9HWFXHJX&hash=item5abe08c8af:g:bRYAAeSw~Wxpssiy",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:00:43.169Z"
+        },
+        "389735306770": {
+          "title": "Lenovo Thinkpad X1 Carbon Gen 8 14\" 16GB 512GB, Preto",
+          "url": "https://www.ebay.com/itm/389735306770?itmmeta=01KKVWWK0CPHN8GNDA1TJQG4F2&hash=item5abe08d612:g:gI4AAeSw4-NpsskQ",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:00:43.169Z"
+        },
+        "389735531662": {
+          "title": "HP ZBook Firefly 14 G7 14\" 32GB 256GB, Prata",
+          "url": "https://www.ebay.com/itm/389735531662?itmmeta=01KKVZ3VZEXYCE2N5VHKR8VWE1&hash=item5abe0c448e:g:kYoAAeSwVbxpstWf",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735309056": {
+          "title": "Lenovo Thinkpad X1 Carbon Gen 8 14\" 16GB 256GB, Preto",
+          "url": "https://www.ebay.com/itm/389735309056?itmmeta=01KKVXJQ9HNQE51GBGE9EFQNV4&hash=item5abe08df00:g:LWwAAeSwR09pssj5",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389735315608": {
+          "title": "Apple MacBook Air (2019) 13,3\" 8GB 256GB, Prata",
+          "url": "https://www.ebay.com/itm/389735315608?itmmeta=01KKVXJQ9HQWAEXYBJEYJ6HW3B&hash=item5abe08f898:g:fTUAAeSw9KNpsskc",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389735531098": {
+          "title": "Lenovo IdeaPad 3 15ITL6 15.6\" 16GB 512GB, Prata",
+          "url": "https://www.ebay.com/itm/389735531098?itmmeta=01KKVZ3VZE3SQXV82C6K4VP2FJ&hash=item5abe0c425a:g:TNcAAeSw5A9pstTh",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735308324": {
+          "title": "HP 15-FD0023DX 15,6\" 8GB 512GB, Prata Natural",
+          "url": "https://www.ebay.com/itm/389735308324?itmmeta=01KKVXJQ9HHWN0ZN2DPE936T0Z&hash=item5abe08dc24:g:fFsAAeSwq1ppsslx",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389735311769": {
+          "title": "Apple MacBook Pro (15 polegadas, 2019) Touch, cinza espacial",
+          "url": "https://www.ebay.com/itm/389735311769?itmmeta=01KKVXJQ9HH96TQ4QAKR79W7YK&hash=item5abe08e999:g:Ju4AAeSwtwtpssiw",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389720562959": {
+          "title": "Estação de acoplamento Dell WD22TB4 180W fornecimento de energia, preta",
+          "url": "https://www.ebay.com/itm/389720562959?itmmeta=01KKVXJQ9GEZ8YB97KCTK9J5TQ&hash=item5abd27dd0f:g:eTIAAeSw7x1pru-e",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389326132288": {
+          "title": "Lenovo ThinkPad T14 Gen 2 14\" 16GB 512GB SSD i5-1145G7 2.4GHz WIN11P, Preto",
+          "url": "https://www.ebay.com/itm/389326132288?itmmeta=01KKVXJQ9GTJT8SC5DQS73PQ1J&hash=item5aa5a55440:g:MIcAAeSwaXxpMCyo",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389735306795": {
+          "title": "Lenovo ThinkPad E14 Gen 3 14\" 16GB 512GB, Preto",
+          "url": "https://www.ebay.com/itm/389735306795?itmmeta=01KKVWWK0C2BVXKXAP8KWD3C60&hash=item5abe08d62b:g:gDUAAeSwW5RpsskM",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:00:43.169Z"
+        },
+        "389735307756": {
+          "title": "Lenovo ThinkPad P1 Gen 5 16\" 32GB 512GB, Preto",
+          "url": "https://www.ebay.com/itm/389735307756?itmmeta=01KKVXJQ9HY17YBCZ0KR1RVKXC&hash=item5abe08d9ec:g:XzgAAeSwhHdpssie",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389735304434": {
+          "title": "Lenovo Ideapad Flex 5 15ITL05 15.6\" 8GB, Cinza Grafite",
+          "url": "https://www.ebay.com/itm/389735304434?itmmeta=01KKVWWK0C204S7CRYF6NNNY5Z&hash=item5abe08ccf2:g:UsIAAeSwdippsshA",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:00:43.169Z"
+        },
+        "389253924357": {
+          "title": "HP Elite Dragonfly 13.5\" Touch 16GB 256GB SSD Core i5-1245U ChromeOS, azul ardósia",
+          "url": "https://www.ebay.com/itm/389253924357?itmmeta=01KKVXJQ9GQ3BF7VM82TXMDTHW&hash=item5aa1578605:g:L7AAAeSwGzppHa1u",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389735309057": {
+          "title": "Dell Latitude 5400 14\" 4GB 512GB, fibra de carbono",
+          "url": "https://www.ebay.com/itm/389735309057?itmmeta=01KKVWWK0C4FDV1NKMVYYKT7JC&hash=item5abe08df01:g:rF0AAeSwSMppssmC",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:00:43.169Z",
+          "lastSeenAt": "2026-03-16T18:00:43.169Z"
+        },
+        "388782560916": {
+          "title": "Lenovo ThinkCentre M80q Tiny 16GB 256GB SSD Core™ i5-10500T 2.3GHz WIN11P, Preto",
+          "url": "https://www.ebay.com/itm/388782560916?itmmeta=01KKVXJQ9FKRC560BGERM1EY9G&hash=item5a853f1694:g:XhIAAeSw8EtojKfh",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:09:05.100Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "388839686602": {
+          "title": "SSD Samsung PM863 Series MZ-7LM1T90 2.5\" 1.92TB SATA III, Preto",
+          "url": "https://www.ebay.com/itm/388839686602?itmmeta=01KKVXJQ9FVX9DZCD36ETEF672&hash=item5a88a6c1ca:g:32oAAeSw3M9on0hb",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:09:05.100Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389281082004": {
+          "title": "HP EliteBook 835 G7 13,3\" 16GB 256GB SSD AMD Ryzen 7 Pro 4750U WIN11P, Prata",
+          "url": "https://www.ebay.com/itm/389281082004?itmmeta=01KKVXJQ9FKQPP0YN7G17JHVHT&hash=item5aa2f5ea94:g:~ZYAAeSwh-VpJGth",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:09:05.100Z",
+          "lastSeenAt": "2026-03-16T18:12:47.174Z"
+        },
+        "389735527509": {
+          "title": "HP Pro c640 Chromebook 14\" 8GB 64GB, Pike Silver",
+          "url": "https://www.ebay.com/itm/389735527509?itmmeta=01KKVXJQ9GSHQSN965PKAS94E0&hash=item5abe0c3455:g:TvwAAeSwk6BpstT2",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:09:05.100Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389103011286": {
+          "title": "Estação de acoplamento Dell WD22TB4 130W PD, preta",
+          "url": "https://www.ebay.com/itm/389103011286?itmmeta=01KKVXJQ9HD1QFKYB5KXY93ZGW&hash=item5a9858c5d6:g:MU0AAeSwqPlo8PN0",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:09:05.100Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389364345983": {
+          "title": "Lenovo ThinkCentre M80q (16GB RAM, 256GB SSD, i5-10500T 2.3GHz) Win11P, Preto",
+          "url": "https://www.ebay.com/itm/389364345983?itmmeta=01KKVXJQ9H6PGDVSQBYTBY7VYN&hash=item5aa7ec6c7f:g:2E8AAeSwVm5pPCti",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:09:05.100Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "388980891626": {
+          "title": "Dell Optiplex 5080 (8GB, 256GB SSD, i5-10500 3.10GHz) Win11P, Preto",
+          "url": "https://www.ebay.com/itm/388980891626?itmmeta=01KKVXJQ9H6N9MNX1CCKA875WN&hash=item5a91115fea:g:MwQAAeSwbtFoyyI-",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:09:05.100Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389735303336": {
+          "title": "Lenovo ThinkPad P1 Gen 5 16\" 32GB 512GB, Preto",
+          "url": "https://www.ebay.com/itm/389735303336?itmmeta=01KKVXJQ9H1QXR2NQ1Z6XBZF81&hash=item5abe08c8a8:g:JyIAAeSwbodpssf8",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:09:05.100Z",
+          "lastSeenAt": "2026-03-16T18:12:47.175Z"
+        },
+        "389741420767": {
+          "title": "Dell Latitude 3410 14\" Touch 8GB 512GB SSD Core I5-10310U Win11P, Cinza Escuro",
+          "url": "https://www.ebay.com/itm/389741420767?itmmeta=01KKVZ3VZEFGP35DJZHQZW1BFT&hash=item5abe6620df:g:XVYAAeSwYXxptBq-",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389736831281": {
+          "title": "Câmera de Ação GoPro HERO13 27.6MP, Preta",
+          "url": "https://www.ebay.com/itm/389736831281?itmmeta=01KKVZ3VZE010Z5GN46C2571ZB&hash=item5abe201931:g:Ir0AAeSw7cFpsw-Y",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389736828042": {
+          "title": "Lenovo ThinkStation P340 Tower (16GB, h12GB SSD, i7-10700 3.8GHz, Win11P) Preto",
+          "url": "https://www.ebay.com/itm/389736828042?itmmeta=01KKVZ3VZEF022YYFYWTR1KEQ1&hash=item5abe200c8a:g:qJ8AAeSw~WxpsxBh",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735814852": {
+          "title": "Apple iPhone 13 128GB - Desbloqueado - Meia-noite",
+          "url": "https://www.ebay.com/itm/389735814852?epid=11049276145&itmmeta=01KKVZ3VZEWWVG2SX85AFQ3KT0&hash=item5abe1096c4:g:1BgAAeSwSEFpsuKA",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735531663": {
+          "title": "HP EliteBook 650 G10 15,6\" 16GB 512GB, Prata Natural",
+          "url": "https://www.ebay.com/itm/389735531663?itmmeta=01KKVZ3VZEF56VYMDFVYF5W5AR&hash=item5abe0c448f:g:D6cAAeSw3jhpstVk",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735531673": {
+          "title": "HP 15-FC0093DX 15,6\" 8GB 512GB, Prata",
+          "url": "https://www.ebay.com/itm/389735531673?itmmeta=01KKVZ3VZEZV8D997DCBTTKGAS&hash=item5abe0c4499:g:PWYAAeSwnahpstUr",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735531645": {
+          "title": "Lenovo ThinkPad T14S Gen 1 14\" 16GB 256GB, Preto",
+          "url": "https://www.ebay.com/itm/389735531645?itmmeta=01KKVZ3VZEQEM3A8TQA67P235B&hash=item5abe0c447d:g:Uz4AAeSwUEdpstWl",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735531651": {
+          "title": "Lenovo Thinkpad T14 Gen 3 14\" 16GB, Thunder Black",
+          "url": "https://www.ebay.com/itm/389735531651?itmmeta=01KKVZ3VZEJYVVTN3XP7ZPAF3Q&hash=item5abe0c4483:g:QJsAAeSwnahpstWj",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735531097": {
+          "title": "HP EliteBook 640 G9 14\" 16GB 256GB, Prata",
+          "url": "https://www.ebay.com/itm/389735531097?itmmeta=01KKVZ3VZEXGSWEWVZ34SGC32Y&hash=item5abe0c4259:g:m9QAAeSwDBBpstTg",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735531102": {
+          "title": "HP ProBook 650 G7 15,6\" 16GB 256GB, Prata",
+          "url": "https://www.ebay.com/itm/389735531102?itmmeta=01KKVZ3VZEJZPPDJ37KXSRR71A&hash=item5abe0c425e:g:UBsAAeSwhgxpstWb",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735531116": {
+          "title": "HP Zbook 15 G6 15.6\" 32GB 256GB, Prata",
+          "url": "https://www.ebay.com/itm/389735531116?itmmeta=01KKVZ3VZE7Y3FTNSDAXQ3XR79&hash=item5abe0c426c:g:WggAAeSwlCRpstVc",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735531117": {
+          "title": "HP EliteBook 650 G10 15,6\" 16GB 256GB, Prata Natural",
+          "url": "https://www.ebay.com/itm/389735531117?itmmeta=01KKVZ3VZEB32AWHY8YXMV6EWG&hash=item5abe0c426d:g:DgQAAeSw3jhpstUg",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735531128": {
+          "title": "HP 16-AD0023DX 16\" 16GB 512GB, prata meteoro",
+          "url": "https://www.ebay.com/itm/389735531128?itmmeta=01KKVZ3VZEF5H4105SFCT3MGT6&hash=item5abe0c4278:g:1HAAAeSwbQhpstVi",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735531129": {
+          "title": "Lenovo Ideapad Flex 5 14IAU7 14\" 8GB 256GB, Cinza Tempestade",
+          "url": "https://www.ebay.com/itm/389735531129?itmmeta=01KKVZ3VZEXJ0243V2N3DA7GK7&hash=item5abe0c4279:g:g2YAAeSwYs9pstTh",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735531133": {
+          "title": "Dell Inspiron 15 3520 15,6\" 16GB 512GB, Preto",
+          "url": "https://www.ebay.com/itm/389735531133?itmmeta=01KKVZ3VZEZCXP211NPV4ZJN72&hash=item5abe0c427d:g:YToAAeSwVqdpstTl",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735530081": {
+          "title": "Lenovo ThinkPad T14s Gen 2 14\" 16GB 512GB, Preto",
+          "url": "https://www.ebay.com/itm/389735530081?itmmeta=01KKVZ3VZECWGNKZFV0T5TX5DZ&hash=item5abe0c3e61:g:SJEAAeSwKhJpstTO",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735530087": {
+          "title": "Lenovo Thinkpad T14 Gen 3 14\" 16GB, Thunder Black",
+          "url": "https://www.ebay.com/itm/389735530087?itmmeta=01KKVZ3VZEC1M4GAK8FQ6V07CW&hash=item5abe0c3e67:g:0qIAAeSw0gNpstUP",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735530088": {
+          "title": "Lenovo Thinkpad T14 Gen 2 14\" 16GB 256GB, Cinza Tempestade",
+          "url": "https://www.ebay.com/itm/389735530088?itmmeta=01KKVZ3VZEFNBE9PVYJMDYW347&hash=item5abe0c3e68:g:ZfIAAeSwd59pstSW",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735530100": {
+          "title": "HP 17-CN2083DX 17,3\" 16GB 256GB, Prata",
+          "url": "https://www.ebay.com/itm/389735530100?itmmeta=01KKVZ3VZE2F5NQ3ZE8N048ANB&hash=item5abe0c3e74:g:VgMAAeSwPU9pstTU",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735530102": {
+          "title": "Lenovo ThinkPad T14s Gen 2 14\" 32GB 512GB, Preto",
+          "url": "https://www.ebay.com/itm/389735530102?itmmeta=01KKVZ3VZEHVCQM9Z6ADCDS4TQ&hash=item5abe0c3e76:g:wBIAAeSw7tJpstWE",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735530109": {
+          "title": "HP Elitebook 840 G7 14\" 16GB 512GB, Prata",
+          "url": "https://www.ebay.com/itm/389735530109?itmmeta=01KKVZ3VZE8Z0W0961AHZXMDET&hash=item5abe0c3e7d:g:SigAAeSwwXdpstVK",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735530110": {
+          "title": "Lenovo ThinkPad T14s Gen 2 14\" 16GB 256GB, cinza tempestade",
+          "url": "https://www.ebay.com/itm/389735530110?itmmeta=01KKVZ3VZEWPBXP2C5VQJCNZD6&hash=item5abe0c3e7e:g:fJYAAeSwUoRpstWF",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735530071": {
+          "title": "HP EliteBook 830 G8 13,3\" 8GB 500GB, Prata",
+          "url": "https://www.ebay.com/itm/389735530071?itmmeta=01KKVZ3VZEA0T1KAJN14PQEWVV&hash=item5abe0c3e57:g:kF4AAeSw6IJpstVN",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735529273": {
+          "title": "HP Elitebook 840 G7 14\" 32GB 256GB, Prata",
+          "url": "https://www.ebay.com/itm/389735529273?itmmeta=01KKVZ3VZEBG3ZS32E112P1548&hash=item5abe0c3b39:g:35EAAeSws3xpstV4",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735529279": {
+          "title": "Lenovo Thinkpad P1 Gen 3 15.6\" 32GB 256GB, Preto",
+          "url": "https://www.ebay.com/itm/389735529279?itmmeta=01KKVZ3VZE8MPYY7TJPHQHBSW1&hash=item5abe0c3b3f:g:C3oAAeSwkONpstU1",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735529280": {
+          "title": "Lenovo ThinkPad T14s Gen 2 14\" 16GB 512GB, cinza tempestade",
+          "url": "https://www.ebay.com/itm/389735529280?itmmeta=01KKVZ3VZEC35EZZZA8AQ65N5Q&hash=item5abe0c3b40:g:-xIAAeSw0e5pstS9",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735529283": {
+          "title": "Lenovo ThinkPad T14s Gen 2 14\" 16GB 256GB, cinza tempestade",
+          "url": "https://www.ebay.com/itm/389735529283?itmmeta=01KKVZ3VZE6DP1JAX9JPPB1130&hash=item5abe0c3b43:g:hqYAAeSwAANpstU6",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735529287": {
+          "title": "Lenovo ThinkPad T14s Gen 2 14\" 16GB 512GB, cinza tempestade",
+          "url": "https://www.ebay.com/itm/389735529287?itmmeta=01KKVZ3VZE0R6FMYCTMXF8KR02&hash=item5abe0c3b47:g:~lcAAeSw6YBpstT2",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735529288": {
+          "title": "Lenovo ThinkPad T14s Gen 2 14\" 16GB 512GB, cinza tempestade",
+          "url": "https://www.ebay.com/itm/389735529288?itmmeta=01KKVZ3VZE4C41WCH8C4TN8RA6&hash=item5abe0c3b48:g:VDIAAeSw0y9pstVw",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735529290": {
+          "title": "HP 15-FD0123DX 15,6\" 16GB 512GB, Prata Natural",
+          "url": "https://www.ebay.com/itm/389735529290?itmmeta=01KKVZ3VZEG5H4W0ZGCBQ9TRH9&hash=item5abe0c3b4a:g:1J4AAeSwgvFpstS5",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735529292": {
+          "title": "HP 15-FC0093DX 15.6\" 16GB 512GB, Prata",
+          "url": "https://www.ebay.com/itm/389735529292?itmmeta=01KKVZ3VZE0FFD0GT6QPMJQWHC&hash=item5abe0c3b4c:g:HIoAAeSw6HNpstS8",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735529293": {
+          "title": "Dell Latitude 5511 15,6\" 16GB 256GB, Cinza",
+          "url": "https://www.ebay.com/itm/389735529293?itmmeta=01KKVZ3VZESR5M2XMK3WCWE33C&hash=item5abe0c3b4d:g:yoMAAeSwX6tpstVt",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735529294": {
+          "title": "HP Zbook 15 G6 15,6\" 32GB 512GB, Prata",
+          "url": "https://www.ebay.com/itm/389735529294?itmmeta=01KKVZ3VZFGS4A1C1Y2C265CWK&hash=item5abe0c3b4e:g:ebQAAeSwFYZpstVu",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735529300": {
+          "title": "HP EliteBook 830 G8 13,3\" 16GB 256GB, Prata",
+          "url": "https://www.ebay.com/itm/389735529300?itmmeta=01KKVZ3VZFJ4RW7XHX298H99EH&hash=item5abe0c3b54:g:168AAeSwfKFpstS5",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735529301": {
+          "title": "HP Zbook 15 G6 15,6\" 32GB 512GB, Prata",
+          "url": "https://www.ebay.com/itm/389735529301?itmmeta=01KKVZ3VZFR5YYGP85NJBJNW10&hash=item5abe0c3b55:g:RykAAeSwAYxpstS5",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735529302": {
+          "title": "HP EliteBook 640 G9 14\" 16GB 512GB, Prata",
+          "url": "https://www.ebay.com/itm/389735529302?itmmeta=01KKVZ3VZFW6TMHHRDG50ME433&hash=item5abe0c3b56:g:TuEAAeSwVZdpstUr",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735529305": {
+          "title": "Lenovo Ideapad Flex 5 14IAU7 14\" 12GB, cinza tempestade",
+          "url": "https://www.ebay.com/itm/389735529305?itmmeta=01KKVZ3VZFT7KBB57E58XQ79FT&hash=item5abe0c3b59:g:b7IAAeSwyIRpstSA",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735529307": {
+          "title": "Lenovo ThinkPad P1 Gen 5 16\" 32GB 512GB, Preto",
+          "url": "https://www.ebay.com/itm/389735529307?itmmeta=01KKVZ3VZFTSMY896GA556F32T&hash=item5abe0c3b5b:g:UTUAAeSwiCBpstS7",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735529308": {
+          "title": "Dell Latitude 5511 14\" 16GB 256GB, Cinza",
+          "url": "https://www.ebay.com/itm/389735529308?itmmeta=01KKVZ3VZFBQWG5SV5ZX7GC2MQ&hash=item5abe0c3b5c:g:B7AAAeSwwRlpstV2",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735529309": {
+          "title": "HP EliteBook 650 G10 15,6\" 16GB 512GB, Prata Natural",
+          "url": "https://www.ebay.com/itm/389735529309?itmmeta=01KKVZ3VZFMYXRC5KF2Q9ZHH6Z&hash=item5abe0c3b5d:g:bM4AAeSwytJpstVx",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735529311": {
+          "title": "Dell Latitude 5430 14\" 16GB 512GB, Cinza",
+          "url": "https://www.ebay.com/itm/389735529311?itmmeta=01KKVZ3VZFDPWXCGX0CDZ7BGMS&hash=item5abe0c3b5f:g:dFsAAeSwyIRpstU1",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735528572": {
+          "title": "Lenovo IdeaPad 1 15ALC7 15.6\" 24GB 256GB, Cinza Nuvem",
+          "url": "https://www.ebay.com/itm/389735528572?itmmeta=01KKVZ3VZFZP7CQCK912M9W89R&hash=item5abe0c387c:g:CHkAAeSwkXJpstVW",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735528549": {
+          "title": "HP Pro c640 Chromebook 14\" 8GB 64GB, Pike Silver",
+          "url": "https://www.ebay.com/itm/389735528549?itmmeta=01KKVZ3VZFNX7Z6JHWWMCS8QJ7&hash=item5abe0c3865:g:aPUAAeSwytJpstTk",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735528550": {
+          "title": "HP ZBook Firefly 14 G7 14\" 16GB 256GB, Prata",
+          "url": "https://www.ebay.com/itm/389735528550?itmmeta=01KKVZ3VZF9R8A5NASW0CWJ3YE&hash=item5abe0c3866:g:V0YAAeSwMQhpstSq",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735528551": {
+          "title": "HP Pro c640 Chromebook 14\" 8GB 64GB, Pike Silver",
+          "url": "https://www.ebay.com/itm/389735528551?itmmeta=01KKVZ3VZFCMSBEFHB2XAA6EBG&hash=item5abe0c3867:g:ZzgAAeSwm0BpstVZ",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735528553": {
+          "title": "Lenovo Thinkpad T14 Gen 3 14\" 16GB, Thunder Black",
+          "url": "https://www.ebay.com/itm/389735528553?itmmeta=01KKVZ3VZF0ZYWTHTZDK0731PN&hash=item5abe0c3869:g:jooAAeSwJwZpstTl",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735528554": {
+          "title": "HP 15-DY1043DX 15.6\" 12GB 256GB, Prata",
+          "url": "https://www.ebay.com/itm/389735528554?itmmeta=01KKVZ3VZFSVTV4HMT5WFNAWRB&hash=item5abe0c386a:g:Z5YAAeSwEGZpstUc",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735528555": {
+          "title": "HP 15-FC0093DX 15.6\" 16GB 512GB, Prata",
+          "url": "https://www.ebay.com/itm/389735528555?itmmeta=01KKVZ3VZFWPMV5APDS8H28ZCE&hash=item5abe0c386b:g:tQMAAeSwON5pstSv",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735528557": {
+          "title": "Dell Inspiron 3583 15,6\" 8GB 128GB, Preto",
+          "url": "https://www.ebay.com/itm/389735528557?itmmeta=01KKVZ3VZFKHKH5AP0GR8NYP0D&hash=item5abe0c386d:g:2gUAAeSwEVVpstSo",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735528559": {
+          "title": "HP EliteBook 650 G10 15,6\" 16GB 256GB, Prata Natural",
+          "url": "https://www.ebay.com/itm/389735528559?itmmeta=01KKVZ3VZFGZRQG9JCS11MK9ZB&hash=item5abe0c386f:g:YVoAAeSwCQFpstVe",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735528562": {
+          "title": "Lenovo IdeaPad S340-15API 15.6\" 10GB, Cinza Platina",
+          "url": "https://www.ebay.com/itm/389735528562?itmmeta=01KKVZ3VZFCS1HNK1EM8ZJ8PKG&hash=item5abe0c3872:g:7TsAAeSwGBBpstUe",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735528564": {
+          "title": "HP Pro c640 Chromebook 14\" 16GB 128GB, Pike Silver",
+          "url": "https://www.ebay.com/itm/389735528564?itmmeta=01KKVZ3VZFTE71XX27BAB97HRD&hash=item5abe0c3874:g:xgwAAeSwDzZpstSl",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        },
+        "389735528566": {
+          "title": "HP Pro c640 Chromebook 14\" 8GB 64GB, Pike Silver",
+          "url": "https://www.ebay.com/itm/389735528566?itmmeta=01KKVZ3VZFE90T8N2MYN0569Y5&hash=item5abe0c3876:g:bb8AAeSwUappstSp",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:22:43.967Z",
+          "lastSeenAt": "2026-03-16T18:39:15.033Z"
+        }
+      }
+    },
+    "divide": {
+      "initialized": true,
+      "lastScanAt": "2026-03-16T18:39:12.052Z",
+      "knownItems": {
+        "366279703265": {
+          "title": "Nova na Caixa Logitech c925e Business Webcam (960-001075) - 1080P Full HD - 30 FPS",
+          "url": "https://www.ebay.com/itm/366279703265?epid=2294174235&itmmeta=01KKVZ3SFGNSRNZC6JEW86P7B0&hash=item5547f8bae1:g:VBgAAeSwkt9puBt~",
+          "price": null,
+          "firstSeenAt": "2026-03-16T18:08:10.605Z",
+          "lastSeenAt": "2026-03-16T18:39:12.052Z"
+        }
+      }
+    }
+  }
+}

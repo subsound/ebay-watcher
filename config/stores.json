@@ -1,0 +1,19 @@
+{
+  "stores": [
+    {
+      "name": "smartresale",
+      "url": "https://www.ebay.com/sch/i.html?_dkr=1&iconV2Request=true&_blrs=recall_filtering&_ssn=smartresale&store_name=smartresale&_oac=1",
+      "enabled": true
+    },
+    {
+      "name": "divide",
+      "url": "https://www.ebay.com/sch/i.html?_trkparms=folent%3Aeliminatethedigitaldivide%7Cfolenttp%3A1&_trksid=p3542580.m47492.l71970&_ssn=eliminatethedigitaldivide",
+      "enabled": true
+    },
+    {
+      "name": "wisetek",
+      "url": "https://www.ebay.com/sch/i.html?_trkparms=folent%3Awisetekmarket-ca%7Cfolenttp%3A1&_trksid=p3542580.m47492.l71970&_ssn=wisetekmarket-ca",
+      "enabled": true
+    }
+  ]
+}

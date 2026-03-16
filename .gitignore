@@ -1,0 +1,6 @@
+.env
+logs/
+node_modules/
+.chrome-user-data/
+data/ebay-cookies.json
+data/*-debug.png
