@@ -14,14 +14,14 @@
 ## Run
 
 ```bash
-npm start
+node --env-file=.env src/index.js
 ```
 
 ## Refresh cookies
 
 ```bash
-npm run cookies:refresh
-npm run cookies:print-header
+node --env-file=.env src/refresh-cookies.js
+node --env-file=.env src/print-cookie-header.js
 ```
 
 ## First test run
@@ -29,19 +29,19 @@ npm run cookies:print-header
 1. Send a Telegram test message:
 
 ```bash
-npm run telegram:test
+node --env-file=.env src/index.js --telegram-test
 ```
 
 2. Run one scan only and build the initial baseline:
 
 ```bash
-npm run start:once
+node --env-file=.env src/index.js --once
 ```
 
 3. Start the continuous watcher:
 
 ```bash
-npm start
+node --env-file=.env src/index.js
 ```
 
 ## Config

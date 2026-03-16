@@ -4,11 +4,11 @@
   "description": "Watch multiple eBay seller pages and send Telegram alerts for new listings.",
   "type": "module",
   "scripts": {
-    "start": "node --env-file=.env src/index.js",
-    "start:once": "node --env-file=.env src/index.js --once",
-    "telegram:test": "node --env-file=.env src/index.js --telegram-test",
-    "cookies:refresh": "node --env-file=.env src/refresh-cookies.js",
-    "cookies:print-header": "node --env-file=.env src/print-cookie-header.js",
+    "start": "node src/index.js",
+    "start:once": "node src/index.js --once",
+    "telegram:test": "node src/index.js --telegram-test",
+    "cookies:refresh": "node src/refresh-cookies.js",
+    "cookies:print-header": "node src/print-cookie-header.js",
     "check": "node --check src/index.js"
   },
   "engines": {
