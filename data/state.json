@@ -2,7 +2,7 @@
   "stores": {
     "smartresale": {
       "initialized": true,
-      "lastScanAt": "2026-08-25T20:46:15.081Z",
+      "lastScanAt": "2026-08-25T21:29:48.353Z",
       "knownItems": {
         "227254845855": {
           "title": "HP Elitebook X360 1040 G7 14\" i7-10610U 1.8GHz 16GB RAM NO SSD - Grade D",
@@ -21370,10 +21370,10 @@
         },
         "227491049929": {
           "title": "Hp ZBook Firefly 14 inch G9 i7-1270P 16GB NO SSD_ Read Description #5",
-          "url": "https://www.ebay.com/itm/227491049929?itmmeta=01M0XARVHTJV3ABHWY4D8P9XBK&hash=item34f785f1c9:g:AZ8AAeSw1LlqjZbu",
+          "url": "https://www.ebay.com/itm/227491049929?itmmeta=01M0XD8KHFAACMH523S445XKNJ&hash=item34f785f1c9:g:AZ8AAeSw1LlqjZbu",
           "price": null,
           "firstSeenAt": "2026-08-25T14:04:25.101Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491045034": {
           "title": "Hp ZBook Firefly 14 inch G9 i7-1270P 16GB NO SSD_ Read Description#4",
@@ -21405,233 +21405,422 @@
         },
         "227491134082": {
           "title": "Dell Precision 3561 15\" - i7-11850H - 16GB - 512GB - Very Good Refurbished",
-          "url": "https://www.ebay.com/itm/227491134082?itmmeta=01M0XARVHTX7QBVHQB369QHA2H&hash=item34f7873a82:g:1BoAAeSwhthqjawM",
+          "url": "https://www.ebay.com/itm/227491134082?itmmeta=01M0XD8KHE5MCE5J5HT7TGQ3EQ&hash=item34f7873a82:g:1BoAAeSwhthqjawM",
           "price": null,
           "firstSeenAt": "2026-08-25T15:05:28.788Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491115589": {
           "title": "Hp ZBook Firefly 14 inch G9 i7-1270P 16GB NO SSD_ Read Description #6",
-          "url": "https://www.ebay.com/itm/227491115589?itmmeta=01M0XARVHTVCFDJKVBV7BCAKES&hash=item34f786f245:g:AZ8AAeSw1LlqjZbu",
+          "url": "https://www.ebay.com/itm/227491115589?itmmeta=01M0XD8KHFTGPKYGNG7Z0W6WDF&hash=item34f786f245:g:AZ8AAeSw1LlqjZbu",
           "price": null,
           "firstSeenAt": "2026-08-25T15:05:28.788Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491111223": {
           "title": "HP EliteBook x360 1040 G7 14\" i7 1.8GHz 16GB RAM 512 SSD - Read Description#3",
-          "url": "https://www.ebay.com/itm/227491111223?itmmeta=01M0XARVHTF2P6E8V4E90B2VRZ&hash=item34f786e137:g:tEkAAeSwiipqjaZY",
+          "url": "https://www.ebay.com/itm/227491111223?itmmeta=01M0XD8KHFYPXB8Q9W1A19QT3H&hash=item34f786e137:g:tEkAAeSwiipqjaZY",
           "price": null,
           "firstSeenAt": "2026-08-25T15:05:28.788Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491100454": {
           "title": "NVIDIA Quadro - K6000 - 12GB - GDDR5 - 699-52081-0500-200 - Tested & Working",
-          "url": "https://www.ebay.com/itm/227491100454?itmmeta=01M0XARVHT5XXFB2J60DV6DM09&hash=item34f786b726:g:mwAAAeSwislqjaNw",
+          "url": "https://www.ebay.com/itm/227491100454?itmmeta=01M0XD8KHF32M8R80W8V5VYBRH&hash=item34f786b726:g:mwAAAeSwislqjaNw",
           "price": null,
           "firstSeenAt": "2026-08-25T15:05:28.788Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491203607": {
           "title": "Hp ZBook Firefly 14 inch G9 i7-1270P 16GB NO SSD_ Read Description #7",
-          "url": "https://www.ebay.com/itm/227491203607?itmmeta=01M0XARVHTCYTN4NAKN93CGSAD&hash=item34f7884a17:g:AZ8AAeSw1LlqjZbu",
+          "url": "https://www.ebay.com/itm/227491203607?itmmeta=01M0XD8KHED0A4A762QWTF8MB4&hash=item34f7884a17:g:AZ8AAeSw1LlqjZbu",
           "price": null,
           "firstSeenAt": "2026-08-25T16:00:09.053Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491199829": {
           "title": "Nvidia Tesla V100S - PCIe 32GB (699-2G500-0212-400) GPU - Tested & Working",
-          "url": "https://www.ebay.com/itm/227491199829?itmmeta=01M0XARVHTCXT2G34FRFAN982H&hash=item34f7883b55:g:wqwAAeSwz0Jqjbjr",
+          "url": "https://www.ebay.com/itm/227491199829?itmmeta=01M0XD8KHE5ZX56MNBTJ5PPV48&hash=item34f7883b55:g:wqwAAeSwz0Jqjbjr",
           "price": null,
           "firstSeenAt": "2026-08-25T16:00:09.053Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491196183": {
           "title": "HP Zbook Firefly G10 14\" i7-1370P 16GB RAM NO SSD- Read Description#1",
-          "url": "https://www.ebay.com/itm/227491196183?itmmeta=01M0XARVHT6ZKE0T2DZCAG95VQ&hash=item34f7882d17:g:SsEAAeSw3B1qjbhS",
+          "url": "https://www.ebay.com/itm/227491196183?itmmeta=01M0XD8KHEEJ8TC5G3MM81M2HS&hash=item34f7882d17:g:SsEAAeSw3B1qjbhS",
           "price": null,
           "firstSeenAt": "2026-08-25T16:00:09.053Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491154164": {
           "title": "Nvidia Tesla V100 - PCIe 32GB (699-2G500-0202-400) GPU - Tested & Working",
-          "url": "https://www.ebay.com/itm/227491154164?epid=28028313947&itmmeta=01M0XARVHTC2KVG5HGB42A7TD7&hash=item34f78788f4:g:yu8AAeSw61Rqja1q",
+          "url": "https://www.ebay.com/itm/227491154164?epid=28028313947&itmmeta=01M0XD8KHEGNYVSF2DR9MP87P3&hash=item34f78788f4:g:yu8AAeSw61Rqja1q",
           "price": null,
           "firstSeenAt": "2026-08-25T16:00:09.053Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491142430": {
           "title": "Lenovo ThinkPad P16v Gen 1 16\"-AMD Ryzen 9 Pro 64Gb RAM 1TB- Grade D",
-          "url": "https://www.ebay.com/itm/227491142430?itmmeta=01M0XARVHTK6ZXC2HDYS94EEND&hash=item34f7875b1e:g:GLsAAeSwEu1qjaza",
+          "url": "https://www.ebay.com/itm/227491142430?itmmeta=01M0XD8KHEJHTQGVHE49C9Q7DX&hash=item34f7875b1e:g:GLsAAeSwEu1qjaza",
           "price": null,
           "firstSeenAt": "2026-08-25T16:00:09.053Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491267855": {
           "title": "Nvidia Tesla V100 - PCIe 32GB HBM2 (699-2G500-0202-400) GPU - Tested & Working",
-          "url": "https://www.ebay.com/itm/227491267855?epid=28028313947&itmmeta=01M0XARVHT53EDPX5VKEW93EBP&hash=item34f789450f:g:~AMAAeSw131qjcLC",
+          "url": "https://www.ebay.com/itm/227491267855?epid=28028313947&itmmeta=01M0XD8KHE5DQANW4516BWE34B&hash=item34f789450f:g:~AMAAeSw131qjcLC",
           "price": null,
           "firstSeenAt": "2026-08-25T16:49:08.847Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491263270": {
           "title": "HP Zbook Firefly G10 14\" i7-1370P 16GB RAM NO SSD- Read Description#2",
-          "url": "https://www.ebay.com/itm/227491263270?itmmeta=01M0XARVHTHRT6Q5PM068F7S06&hash=item34f7893326:g:SsEAAeSw3B1qjbhS",
+          "url": "https://www.ebay.com/itm/227491263270?itmmeta=01M0XD8KHETNK86ZBM233VA2AF&hash=item34f7893326:g:SsEAAeSw3B1qjbhS",
           "price": null,
           "firstSeenAt": "2026-08-25T16:49:08.847Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491254726": {
           "title": "HP EliteBook X360 1040 G7 14\" i7-10810U 16GB RAM 512GB - Read Description#4",
-          "url": "https://www.ebay.com/itm/227491254726?itmmeta=01M0XARVHT59N64E9375YPZ1DX&hash=item34f78911c6:g:pyUAAeSwsoRqjcLU",
+          "url": "https://www.ebay.com/itm/227491254726?itmmeta=01M0XD8KHE3YSDN6Y2ZWQZRDPA&hash=item34f78911c6:g:pyUAAeSwsoRqjcLU",
           "price": null,
           "firstSeenAt": "2026-08-25T16:49:08.847Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491254536": {
           "title": "HP ZBOOK STUDIO G7 I7 2.7Ghz 32GB RAM 1TB SSD - Read Description #3",
-          "url": "https://www.ebay.com/itm/227491254536?itmmeta=01M0XARVHTA2P3AVYSDE6SK0DB&hash=item34f7891108:g:AtgAAeSweAVqjcMP",
+          "url": "https://www.ebay.com/itm/227491254536?itmmeta=01M0XD8KHEDFHPJ04A6Z1CEHDC&hash=item34f7891108:g:AtgAAeSweAVqjcMP",
           "price": null,
           "firstSeenAt": "2026-08-25T16:49:08.847Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491253363": {
           "title": "HP EliteBook X360 1040 G7 14\" i7-10810U 16GB RAM 512GB - Read Description#3",
-          "url": "https://www.ebay.com/itm/227491253363?itmmeta=01M0XARVHT8QKMZR175QEAZNSR&hash=item34f7890c73:g:pyUAAeSwsoRqjcLU",
+          "url": "https://www.ebay.com/itm/227491253363?itmmeta=01M0XD8KHEBHS83WPBK3YA9KC0&hash=item34f7890c73:g:pyUAAeSwsoRqjcLU",
           "price": null,
           "firstSeenAt": "2026-08-25T16:49:08.847Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491252928": {
           "title": "Dell Latitude 5430 i7 14\" 4.7 GHz 16Gb 256Gb SSD - READ DESCRIPTION #4",
-          "url": "https://www.ebay.com/itm/227491252928?epid=14070720104&itmmeta=01M0XARVHTET3VHK8597CJ2JXV&hash=item34f7890ac0:g:9cwAAeSwSHBqjcKS",
+          "url": "https://www.ebay.com/itm/227491252928?epid=14070720104&itmmeta=01M0XD8KHERY007ABCCQWKPEQA&hash=item34f7890ac0:g:9cwAAeSwSHBqjcKS",
           "price": null,
           "firstSeenAt": "2026-08-25T16:49:08.847Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491252158": {
           "title": "Dell Latitude 5430 i7 14\" 4.7 GHz 16Gb 256Gb SSD - READ DESCRIPTION #3",
-          "url": "https://www.ebay.com/itm/227491252158?epid=14070720104&itmmeta=01M0XARVHTMCWCZJFJP4KHX22W&hash=item34f78907be:g:9cwAAeSwSHBqjcKS",
+          "url": "https://www.ebay.com/itm/227491252158?epid=14070720104&itmmeta=01M0XD8KHE5RZ7YY5XB246BG8J&hash=item34f78907be:g:9cwAAeSwSHBqjcKS",
           "price": null,
           "firstSeenAt": "2026-08-25T16:49:08.847Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491248707": {
           "title": "HP EliteBook x360 1040 G7 14\" i7 1.8GHz 16GB RAM 512 SSD - Read Description#4",
-          "url": "https://www.ebay.com/itm/227491248707?itmmeta=01M0XARVHTW21K96P36JWN2YAT&hash=item34f788fa43:g:tEkAAeSwiipqjaZY",
+          "url": "https://www.ebay.com/itm/227491248707?itmmeta=01M0XD8KHE49WZBM0DMNQ7KHMQ&hash=item34f788fa43:g:tEkAAeSwiipqjaZY",
           "price": null,
           "firstSeenAt": "2026-08-25T16:49:08.847Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491228055": {
           "title": "Apple MacBook Pro A2141 - 2019 - i7 2.6GHz - 16GB - 512GB - Read Description #20",
-          "url": "https://www.ebay.com/itm/227491228055?itmmeta=01M0XARVHTCQSHHACT5Q2819SC&hash=item34f788a997:g:yWQAAeSwzGVqaS-~",
+          "url": "https://www.ebay.com/itm/227491228055?itmmeta=01M0XD8KHEMDKJ9ZHMK8APCSEN&hash=item34f788a997:g:yWQAAeSwzGVqaS-~",
           "price": null,
           "firstSeenAt": "2026-08-25T16:49:08.847Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491225004": {
           "title": "Apple MacBook Pro A2141 - 2019 - i7 2.6GHz - 16GB - 512GB - Read Description #19",
-          "url": "https://www.ebay.com/itm/227491225004?itmmeta=01M0XARVHT4K2TZDZRZTYKGZYR&hash=item34f7889dac:g:yWQAAeSwzGVqaS-~",
+          "url": "https://www.ebay.com/itm/227491225004?itmmeta=01M0XD8KHEPKA8GAC42DWNFAN9&hash=item34f7889dac:g:yWQAAeSwzGVqaS-~",
           "price": null,
           "firstSeenAt": "2026-08-25T16:49:08.847Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491224615": {
           "title": "Apple MacBook Pro A2141 - 2019 - i7 2.6GHz - 16GB - 512GB - Read Description #18",
-          "url": "https://www.ebay.com/itm/227491224615?itmmeta=01M0XARVHTQ0T6RJHVRA35FVKM&hash=item34f7889c27:g:yWQAAeSwzGVqaS-~",
+          "url": "https://www.ebay.com/itm/227491224615?itmmeta=01M0XD8KHENATRP7RJ4FYB5QQA&hash=item34f7889c27:g:yWQAAeSwzGVqaS-~",
           "price": null,
           "firstSeenAt": "2026-08-25T16:49:08.847Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491224265": {
           "title": "Apple MacBook Pro A2141 - 2019 - i7 2.6GHz - 16GB - 512GB - Read Description #17",
-          "url": "https://www.ebay.com/itm/227491224265?itmmeta=01M0XARVHTEM8X8TRT2DPGKE7Q&hash=item34f7889ac9:g:yWQAAeSwzGVqaS-~",
+          "url": "https://www.ebay.com/itm/227491224265?itmmeta=01M0XD8KHEPGDPNQH3Y4V6Q07E&hash=item34f7889ac9:g:yWQAAeSwzGVqaS-~",
           "price": null,
           "firstSeenAt": "2026-08-25T16:49:08.847Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491224102": {
           "title": "HP EliteBook x360 1040 G7 14\" i7 1.8GHz 16GB RAM 512 SSD - Read Description #3",
-          "url": "https://www.ebay.com/itm/227491224102?itmmeta=01M0XARVHTT7DYV9AE1W0A20SG&hash=item34f7889a26:g:tEkAAeSwiipqjaZY",
+          "url": "https://www.ebay.com/itm/227491224102?itmmeta=01M0XD8KHEJ8Z40YFBV0XNG3NW&hash=item34f7889a26:g:tEkAAeSwiipqjaZY",
           "price": null,
           "firstSeenAt": "2026-08-25T16:49:08.847Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491211708": {
           "title": "Hp ZBook Firefly 14 inch G9 i7-1270P 16GB NO SSD_ Read Description #8",
-          "url": "https://www.ebay.com/itm/227491211708?itmmeta=01M0XARVHT3J9NQ46QMRH8EHN8&hash=item34f78869bc:g:AZ8AAeSw1LlqjZbu",
+          "url": "https://www.ebay.com/itm/227491211708?itmmeta=01M0XD8KHE8XZ4B95B7KMPA6HZ&hash=item34f78869bc:g:AZ8AAeSw1LlqjZbu",
           "price": null,
           "firstSeenAt": "2026-08-25T16:49:08.847Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491331596": {
           "title": "Nvidia Tesla V100S - PCIe 32GB HBM2 (699-2G500-0212-400) GPU - Tested & Working",
-          "url": "https://www.ebay.com/itm/227491331596?epid=14041697862&itmmeta=01M0XARVHTQFSQBYBGAMHZ04NE&hash=item34f78a3e0c:g:6mQAAeSwmKhqjdZ3",
+          "url": "https://www.ebay.com/itm/227491331596?epid=14041697862&itmmeta=01M0XD8KHEMPV6GARWKNH83PW1&hash=item34f78a3e0c:g:6mQAAeSwmKhqjdZ3",
           "price": null,
           "firstSeenAt": "2026-08-25T18:04:02.995Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491372082": {
           "title": "HP Zbook Studio G9 16\" i9-12900H 64GB RAM 1TB SSD- Read Description#5",
-          "url": "https://www.ebay.com/itm/227491372082?itmmeta=01M0XARVHSEE6P78GVJZJDE39A&hash=item34f78adc32:g:qhQAAeSwZsBqjd6M",
+          "url": "https://www.ebay.com/itm/227491372082?itmmeta=01M0XD8KHD9GG9J8DDSCTFJXXF&hash=item34f78adc32:g:qhQAAeSwZsBqjd6M",
           "price": null,
           "firstSeenAt": "2026-08-25T18:57:16.399Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491371636": {
           "title": "HP Zbook Studio G9 16\" i9-12900H 64GB RAM 1TB SSD- Read Description#4",
-          "url": "https://www.ebay.com/itm/227491371636?itmmeta=01M0XARVHSNDSBC6729Q5VXTZ8&hash=item34f78ada74:g:qhQAAeSwZsBqjd6M",
+          "url": "https://www.ebay.com/itm/227491371636?itmmeta=01M0XD8KHD0YHV2M2Q542FA3M5&hash=item34f78ada74:g:qhQAAeSwZsBqjd6M",
           "price": null,
           "firstSeenAt": "2026-08-25T18:57:16.399Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491368506": {
           "title": "HP Elite Dragonfly G3 13.5\" - i7-1265U - 16GB RAM - NO SSD - Grade D",
-          "url": "https://www.ebay.com/itm/227491368506?itmmeta=01M0XARVHSSGZ3A55QSWPBDAWH&hash=item34f78ace3a:g:SRQAAeSwqlBqjd9v",
+          "url": "https://www.ebay.com/itm/227491368506?itmmeta=01M0XD8KHD7YFKXK3NM9BSKAHW&hash=item34f78ace3a:g:SRQAAeSwqlBqjd9v",
           "price": null,
           "firstSeenAt": "2026-08-25T18:57:16.399Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491366729": {
           "title": "HP Zbook Studio G9 16\" i9-12900H 64GB RAM 1TB SSD- Read Description#3",
-          "url": "https://www.ebay.com/itm/227491366729?itmmeta=01M0XARVHSDTSJGRF9CEFXDS4N&hash=item34f78ac749:g:qhQAAeSwZsBqjd6M",
+          "url": "https://www.ebay.com/itm/227491366729?itmmeta=01M0XD8KHD575CF0X4RE1K6655&hash=item34f78ac749:g:qhQAAeSwZsBqjd6M",
           "price": null,
           "firstSeenAt": "2026-08-25T18:57:16.399Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491365759": {
           "title": "HP Zbook Studio G9 16\" i9-12900H 64GB RAM 1TB SSD- Read Description#2",
-          "url": "https://www.ebay.com/itm/227491365759?itmmeta=01M0XARVHS2KXVVAD8XATGWAP8&hash=item34f78ac37f:g:qhQAAeSwZsBqjd6M",
+          "url": "https://www.ebay.com/itm/227491365759?itmmeta=01M0XD8KHD0YB1TT6J037RQ8FE&hash=item34f78ac37f:g:qhQAAeSwZsBqjd6M",
           "price": null,
           "firstSeenAt": "2026-08-25T18:57:16.399Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491364637": {
           "title": "HP ZBook Studio G7 - i9-10885H-2.40GHz- 32GB RAM - 1TB SSD -Read Description#2",
-          "url": "https://www.ebay.com/itm/227491364637?itmmeta=01M0XARVHSM5Q63GTR4WVYJ9JV&hash=item34f78abf1d:g:lgEAAeSwT-hqjd4P",
+          "url": "https://www.ebay.com/itm/227491364637?itmmeta=01M0XD8KHDGXMG9D03YTASGJKM&hash=item34f78abf1d:g:lgEAAeSwT-hqjd4P",
           "price": null,
           "firstSeenAt": "2026-08-25T18:57:16.399Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491343425": {
           "title": "HP Zbook Firefly 14 G11 14\" Ultra 7 165U 16GB RAM NO SSD- Read Description#1",
-          "url": "https://www.ebay.com/itm/227491343425?itmmeta=01M0XARVHTBSDDVW4XS7ZND1SR&hash=item34f78a6c41:g:-NwAAeSw0zlqjdlH",
+          "url": "https://www.ebay.com/itm/227491343425?itmmeta=01M0XD8KHDQ5X5YJQD4KEPRK95&hash=item34f78a6c41:g:-NwAAeSw0zlqjdlH",
           "price": null,
           "firstSeenAt": "2026-08-25T18:57:16.399Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         },
         "227491455961": {
           "title": "Apple iPad Air 5th Gen A2588 Wi-Fi - 256GB - Space Gray - Very Good Refurbished",
-          "url": "https://www.ebay.com/itm/227491455961?itmmeta=01M0XARVHS84NNB4ASGYKGK6C5&hash=item34f78c23d9:g:98wAAeSwzf9qjf2f",
+          "url": "https://www.ebay.com/itm/227491455961?itmmeta=01M0XD8KHDF8S1Y4X1J2274RHR&hash=item34f78c23d9:g:98wAAeSwzf9qjf2f",
           "price": null,
           "firstSeenAt": "2026-08-25T20:46:15.083Z",
-          "lastSeenAt": "2026-08-25T20:46:15.083Z"
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491496193": {
+          "title": "Dell Latitude 5530 15\" - i5-1245u - 16GB RAM - 512GB SSD - Read Description #2",
+          "url": "https://www.ebay.com/itm/227491496193?itmmeta=01M0XD8KHCZWHMH45EANJA81YZ&hash=item34f78cc101:g:v1gAAeSwEU1qjggL",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491494267": {
+          "title": "HP EliteBook 840 G9 i5-1235U 14\" 16GB RAM 512GB SSD - Read Description #20",
+          "url": "https://www.ebay.com/itm/227491494267?itmmeta=01M0XD8KHCA6NS6SVKRYZM7H0M&hash=item34f78cb97b:g:-O4AAeSw7zhqjgcZ",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491494112": {
+          "title": "HP EliteBook 840 G9 i5-1235U 14\" 16GB RAM 512GB SSD - Read Description #19",
+          "url": "https://www.ebay.com/itm/227491494112?itmmeta=01M0XD8KHCZEX904RM2TNV9AQ8&hash=item34f78cb8e0:g:-O4AAeSw7zhqjgcZ",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491492767": {
+          "title": "HP EliteBook 840 G9 i5-1235U 14\" 16GB RAM 512GB SSD - Read Description #18",
+          "url": "https://www.ebay.com/itm/227491492767?itmmeta=01M0XD8KHC9YCKVT88K47T72SS&hash=item34f78cb39f:g:-O4AAeSw7zhqjgcZ",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491490411": {
+          "title": "Apple iPad Air 5th Gen - 256GB - Wi-Fi+LTE - Space Gray - Very Good Refurbished",
+          "url": "https://www.ebay.com/itm/227491490411?itmmeta=01M0XD8KHCEAPCAAB6VK1R3RNY&hash=item34f78caa6b:g:sd8AAeSwijdqjgZj",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491490291": {
+          "title": "HP ZBook Studio G8 15\" - i7 2.5GHz - 32GB RAM - 1TB SSD - Read Description #10",
+          "url": "https://www.ebay.com/itm/227491490291?itmmeta=01M0XD8KHCP71NPMPTGSXN4C3F&hash=item34f78ca9f3:g:9PAAAeSwv9NqjgXg",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491489006": {
+          "title": "HP ZBook Studio G8 15\" - i7 2.5GHz - 32GB RAM - 1TB SSD - Read Description #9",
+          "url": "https://www.ebay.com/itm/227491489006?itmmeta=01M0XD8KHCNVP1B982GR2E8944&hash=item34f78ca4ee:g:9PAAAeSwv9NqjgXg",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491487060": {
+          "title": "Apple MacBook Pro A2442 2021 - M1 Pro - 16GB RAM - 512GB - Read Description #10",
+          "url": "https://www.ebay.com/itm/227491487060?itmmeta=01M0XD8KHCTQGMBJ4Z1FHYPM60&hash=item34f78c9d54:g:084AAeSwhq5qjgUu",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491486391": {
+          "title": "Apple MacBook Pro A2442 2021 - M1 Pro - 16GB RAM - 512GB - Read Description #9",
+          "url": "https://www.ebay.com/itm/227491486391?itmmeta=01M0XD8KHCH33X3QXFXVX0NZZV&hash=item34f78c9ab7:g:084AAeSwhq5qjgUu",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491480658": {
+          "title": "Lenovo ThinkPad T14s Gen 3 - AMD Ryzen 5 PRO -16GB RAM - 256GB -READ DESCRIPTION",
+          "url": "https://www.ebay.com/itm/227491480658?itmmeta=01M0XD8KHCZBGSHKTA8T1SY50V&hash=item34f78c8452:g:rKsAAeSwWOBqjgRT",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491477308": {
+          "title": "Dell Precision 3570 15\" i7-1265U 16GB RAM 2TB SSD- Read Description #2",
+          "url": "https://www.ebay.com/itm/227491477308?itmmeta=01M0XD8KHC9ZQZVTWVBN076667&hash=item34f78c773c:g:1P4AAeSwOCtqjgQE",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491475975": {
+          "title": "Lenovo ThinkPad T14s Gen 3 i5-1245U 16GB RAM 256GB SSD- Read Description#2",
+          "url": "https://www.ebay.com/itm/227491475975?itmmeta=01M0XD8KHC1DFSHJQH5CA3GQ8F&hash=item34f78c7207:g:Hg8AAeSwYQVqjgPQ",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491474440": {
+          "title": "Dell Latitude 7430 I7-1265U 14\" 16GB RAM 256GB SSD- Read Description",
+          "url": "https://www.ebay.com/itm/227491474440?epid=18014308488&itmmeta=01M0XD8KHCM13EMER20VF7X04M&hash=item34f78c6c08:g:5V4AAeSwMDlqbJXy",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491473811": {
+          "title": "Dell Latitude 7430 i7-1265U 14\" 16GB RAM 256GB SSD- Read Description",
+          "url": "https://www.ebay.com/itm/227491473811?epid=18014308488&itmmeta=01M0XD8KHC1ET7FDZ8DVXJM4VX&hash=item34f78c6993:g:uQQAAeSwaGNqjgMo",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491472718": {
+          "title": "APPLE MACBOOK AIR A2337 M1 2020 13\" 16GB 256GB - Read Description #24",
+          "url": "https://www.ebay.com/itm/227491472718?itmmeta=01M0XD8KHCXY76WV7FSZXEMGJF&hash=item34f78c654e:g:-HUAAeSwbS9qjgKy",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491471471": {
+          "title": "APPLE MACBOOK AIR A2337 M1 2020 13\" 16GB 256GB - Read Description #23",
+          "url": "https://www.ebay.com/itm/227491471471?itmmeta=01M0XD8KHCT1P6FPGNQEKXP574&hash=item34f78c606f:g:-HUAAeSwbS9qjgKy",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491470142": {
+          "title": "APPLE MACBOOK AIR A2337 M1 2020 13\" 16GB 256GB- READ DESCRIPTION",
+          "url": "https://www.ebay.com/itm/227491470142?itmmeta=01M0XD8KHCG9KQ29TXX4D75QRE&hash=item34f78c5b3e:g:~eYAAeSw0fJqjgJZ",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491469254": {
+          "title": "NVIDIA Tesla P41- PG610- 24GB (699-1G610-0300-100) Tested & Work",
+          "url": "https://www.ebay.com/itm/227491469254?itmmeta=01M0XD8KHDY0VPBA77AJP0EK64&hash=item34f78c57c6:g:mk4AAeSwALdqjgHw",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491468687": {
+          "title": "APPLE MACBOOK PRO A2485 2021 16\" M1 PRO 16GB 512GB - Read Description #10",
+          "url": "https://www.ebay.com/itm/227491468687?itmmeta=01M0XD8KHDGAQWNED4Q05057SG&hash=item34f78c558f:g:tg8AAeSwIMRqjgH4",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491467498": {
+          "title": "HP EliteBook 840 G9 14\" i5-1235U 16GB RAM 512GB SSD - READ DESCRIPTION #2",
+          "url": "https://www.ebay.com/itm/227491467498?itmmeta=01M0XD8KHDJNRYJPQDF2JXDXE1&hash=item34f78c50ea:g:CcYAAeSwdK5qjgGK",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491466815": {
+          "title": "HP EliteBook X360 1040 G7 14\" i7-10610U 16GB RAM 512GB SSD -Read Description #20",
+          "url": "https://www.ebay.com/itm/227491466815?itmmeta=01M0XD8KHD6AAR56XVD195S9QX&hash=item34f78c4e3f:g:zsAAAeSwjFZqjf~g",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491465985": {
+          "title": "HP EliteBook X360 1040 G7 14\" i7-10610U 16GB RAM 512GB SSD -Read Description #19",
+          "url": "https://www.ebay.com/itm/227491465985?itmmeta=01M0XD8KHD4VKBCHVTWE9SRPQA&hash=item34f78c4b01:g:zsAAAeSwjFZqjf~g",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491465565": {
+          "title": "HP EliteBook X360 1040 G7 14\" i7-10610U 16GB RAM 512GB SSD -Read Description #18",
+          "url": "https://www.ebay.com/itm/227491465565?itmmeta=01M0XD8KHD5GM8VDEAHG725NPZ&hash=item34f78c495d:g:zsAAAeSwjFZqjf~g",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491465289": {
+          "title": "HP EliteBook X360 1040 G7 14\" i7-10610U 16GB RAM 512GB SSD -Read Description #17",
+          "url": "https://www.ebay.com/itm/227491465289?itmmeta=01M0XD8KHD5XYK27V8J8X77EP0&hash=item34f78c4849:g:zsAAAeSwjFZqjf~g",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491464414": {
+          "title": "HP EliteBook X360 1040 G7 14\" i7-10610U 16GB RAM 512GB SSD-Read Description #16",
+          "url": "https://www.ebay.com/itm/227491464414?itmmeta=01M0XD8KHDBDJP0HK8ZAPEQCNX&hash=item34f78c44de:g:zsAAAeSwjFZqjf~g",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491464048": {
+          "title": "HP EliteBook X360 1040 G7 14\" i7-10610U 16GB RAM 512GB SSD-Read Description #15",
+          "url": "https://www.ebay.com/itm/227491464048?itmmeta=01M0XD8KHDRC5C0V5GDTXGH0W0&hash=item34f78c4370:g:zsAAAeSwjFZqjf~g",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
+        },
+        "227491462592": {
+          "title": "HP EliteBook X360 1040 G7 14\" i7-10610U 16GB RAM 512GB SSD -Read Description #14",
+          "url": "https://www.ebay.com/itm/227491462592?itmmeta=01M0XD8KHDXKHKKM3BTE11VS6V&hash=item34f78c3dc0:g:zsAAAeSwjFZqjf~g",
+          "price": null,
+          "firstSeenAt": "2026-08-25T21:29:48.355Z",
+          "lastSeenAt": "2026-08-25T21:29:48.355Z"
         }
       }
     },
     "wisetek": {
       "initialized": true,
-      "lastScanAt": "2026-08-25T20:46:20.776Z",
+      "lastScanAt": "2026-08-25T21:29:54.309Z",
       "knownItems": {
         "389735312466": {
           "title": "Apple MacBook Pro (13 polegadas, 2020, Two 3, cinza espacial",
@@ -52421,17 +52610,17 @@
         },
         "800541928541": {
           "title": "Dell Latitude 5410 14\" 16GB 512GB, Titan Grey",
-          "url": "https://www.ebay.com/itm/800541928541?itmmeta=01M0XAS14XQV5800QH0SZS1Y1N&hash=itemba64046c5d:g:u7IAAeSww-Fqh3Vb",
+          "url": "https://www.ebay.com/itm/800541928541?itmmeta=01M0XD8SC6M481218MR23VCB5P&hash=itemba64046c5d:g:u7IAAeSww-Fqh3Vb",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541928543": {
           "title": "Lenovo ThinkPad P15V Gen 2 15.6\" 16GB 512GB, Black",
-          "url": "https://www.ebay.com/itm/800541928543?itmmeta=01M0XAS14Y0MZF0HVG3AHXJEFV&hash=itemba64046c5f:g:JpgAAeSw2npqh3XT",
+          "url": "https://www.ebay.com/itm/800541928543?itmmeta=01M0XD8SC6M8K4WHRJ4FKBS99H&hash=itemba64046c5f:g:JpgAAeSw2npqh3XT",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541928545": {
           "title": "Lenovo Thinkpad T14 Gen 2 14\" 16GB 512GB, Black",
@@ -52449,10 +52638,10 @@
         },
         "800541928549": {
           "title": "HP Elitebook 650 G9 15.6\" 16GB 256GB, Silver",
-          "url": "https://www.ebay.com/itm/800541928549?itmmeta=01M0XAS14YD937S2KY4A6ZV53Y&hash=itemba64046c65:g:qEYAAeSwau1qh3VY",
+          "url": "https://www.ebay.com/itm/800541928549?itmmeta=01M0XD8SC6K8DGQAZW6HWQBK5T&hash=itemba64046c65:g:qEYAAeSwau1qh3VY",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541928525": {
           "title": "Dell Precision 3551 15.6\" 16GB 512GB, Grey",
@@ -52484,10 +52673,10 @@
         },
         "800541927919": {
           "title": "Dell Precision 3561 15.6\" 32GB 512GB, Titan Grey",
-          "url": "https://www.ebay.com/itm/800541927919?itmmeta=01M0XAS14Y9AFB1Q4QMA1RS6GQ&hash=itemba640469ef:g:szsAAeSw1Pxqh3X5",
+          "url": "https://www.ebay.com/itm/800541927919?itmmeta=01M0XD8SC6ZBVGE1EB1A32BDRQ&hash=itemba640469ef:g:szsAAeSw1Pxqh3X5",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541927883": {
           "title": "Lenovo Thinkpad T14 Gen 2 14\" 16GB 512GB, Black",
@@ -52505,24 +52694,24 @@
         },
         "800541927886": {
           "title": "HP Elitebook 840 G8 14.0\" 16GB 512GB, Glacier Silver",
-          "url": "https://www.ebay.com/itm/800541927886?itmmeta=01M0XAS14Y9Q3CPX4EWBDH7683&hash=itemba640469ce:g:-DsAAeSwFHNqh3VN",
+          "url": "https://www.ebay.com/itm/800541927886?itmmeta=01M0XD8SC69BNGZ5B4XNASGPYJ&hash=itemba640469ce:g:-DsAAeSwFHNqh3VN",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541927888": {
           "title": "HP Probook 640 G8 14\" 16GB 256GB, Silver",
-          "url": "https://www.ebay.com/itm/800541927888?itmmeta=01M0XAS14YVYBV0KGG4GGJNJDE&hash=itemba640469d0:g:78wAAeSw9KNqh3X4",
+          "url": "https://www.ebay.com/itm/800541927888?itmmeta=01M0XD8SC6A5E6EW2MZ0Y77552&hash=itemba640469d0:g:78wAAeSw9KNqh3X4",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541927891": {
           "title": "Dell Latitude 5510 15.6\" 16GB 256GB, Titan Grey",
-          "url": "https://www.ebay.com/itm/800541927891?itmmeta=01M0XAS14YT0BHKV2X8H8NCQPW&hash=itemba640469d3:g:uJsAAeSwKVxqh3X8",
+          "url": "https://www.ebay.com/itm/800541927891?itmmeta=01M0XD8SC63NGP11E60WN4C49K&hash=itemba640469d3:g:uJsAAeSwKVxqh3X8",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541927893": {
           "title": "Lenovo Thinkpad T14 Gen 2 13.3\" 16GB 512GB, Storm Gray",
@@ -52540,10 +52729,10 @@
         },
         "800541927899": {
           "title": "HP ProBook 440 G8 14\" 16GB 256GB, Pike Silver",
-          "url": "https://www.ebay.com/itm/800541927899?itmmeta=01M0XAS14YS99NJWCN1GNGSS52&hash=itemba640469db:g:sOsAAeSwFLNqh3XB",
+          "url": "https://www.ebay.com/itm/800541927899?itmmeta=01M0XD8SC6366552425DP2HR0P&hash=itemba640469db:g:sOsAAeSwFLNqh3XB",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541927900": {
           "title": "HP Envy X360 15M-ES1023DX 15.6\" 16GB 256GB, Silver",
@@ -52561,31 +52750,31 @@
         },
         "800541927903": {
           "title": "Dell Latitude 5450 14\" 16GB 512GB, Titan Grey",
-          "url": "https://www.ebay.com/itm/800541927903?itmmeta=01M0XAS14YVVWST6150T4JHMG2&hash=itemba640469df:g:tNsAAeSwjh5qh3WD",
+          "url": "https://www.ebay.com/itm/800541927903?itmmeta=01M0XD8SC6T7Z53AGFDYWP1TVS&hash=itemba640469df:g:tNsAAeSwjh5qh3WD",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541927904": {
           "title": "HP EliteBook 640 G9 14\" 16GB 512GB, Silver",
-          "url": "https://www.ebay.com/itm/800541927904?itmmeta=01M0XAS14YVME1P4149YVJKXWP&hash=itemba640469e0:g:JscAAeSw5B5qh3VK",
+          "url": "https://www.ebay.com/itm/800541927904?itmmeta=01M0XD8SC62S7K266RM6EE1K41&hash=itemba640469e0:g:JscAAeSw5B5qh3VK",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541927906": {
           "title": "Dell Precision 7550 15.6\" 16GB 512GB, Titan Grey",
-          "url": "https://www.ebay.com/itm/800541927906?itmmeta=01M0XAS14YY83Q0X151CBEZ947&hash=itemba640469e2:g:9HkAAeSwPgVqh3XB",
+          "url": "https://www.ebay.com/itm/800541927906?itmmeta=01M0XD8SC673GQ52NYREZWTHVW&hash=itemba640469e2:g:9HkAAeSwPgVqh3XB",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541927907": {
           "title": "HP 17-CP2025DX 17.3\" 8GB 512GB, Silver",
-          "url": "https://www.ebay.com/itm/800541927907?itmmeta=01M0XAS14YJ5N1RG3CGWCYB2FY&hash=itemba640469e3:g:8tgAAeSwCqtqh3VI",
+          "url": "https://www.ebay.com/itm/800541927907?itmmeta=01M0XD8SC73KEDA1ZHKXM0MP3T&hash=itemba640469e3:g:8tgAAeSwCqtqh3VI",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541927908": {
           "title": "Dell Latitude 7430 14\" 32GB 256GB, Titan Gray",
@@ -52596,17 +52785,17 @@
         },
         "800541927065": {
           "title": "Lenovo Yoga 7 14IAL7 14\" 8GB 256GB, Storm Grey",
-          "url": "https://www.ebay.com/itm/800541927065?itmmeta=01M0XAS14YV54KG52TAJHRA6SY&hash=itemba64046699:g:IyUAAeSw-8lqh3Xm",
+          "url": "https://www.ebay.com/itm/800541927065?itmmeta=01M0XD8SC7FXB8EYQS5Z99S7JS&hash=itemba64046699:g:IyUAAeSw-8lqh3Xm",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541927066": {
           "title": "Dell Latitude 5550 15.6\" 16GB 512GB, Titan Gray",
-          "url": "https://www.ebay.com/itm/800541927066?itmmeta=01M0XAS14YTA084H86V077N059&hash=itemba6404669a:g:PykAAeSwgwRqh3T1",
+          "url": "https://www.ebay.com/itm/800541927066?itmmeta=01M0XD8SC719QCXBQ7TETJP419&hash=itemba6404669a:g:PykAAeSwgwRqh3T1",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541927067": {
           "title": "Lenovo Thinkpad X1 Yoga Gen 5 14\" 16GB, Iron Gray",
@@ -52659,10 +52848,10 @@
         },
         "800541927081": {
           "title": "Dell Latitude 3420 14.0\" 16GB 512GB, Black",
-          "url": "https://www.ebay.com/itm/800541927081?itmmeta=01M0XAS14YF4XM3FVQ42WXHG94&hash=itemba640466a9:g:NzcAAeSw7DBqh3T2",
+          "url": "https://www.ebay.com/itm/800541927081?itmmeta=01M0XD8SC7MYJXGRC2TH2CEVMY&hash=itemba640466a9:g:NzcAAeSw7DBqh3T2",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541927083": {
           "title": "Dell Latitude 7420 14\" 16GB 512GB, Carbon Fiber",
@@ -52673,10 +52862,10 @@
         },
         "800541927084": {
           "title": "HP EliteBook x360 830 G8 13.3\" 16GB 256GB, Silver",
-          "url": "https://www.ebay.com/itm/800541927084?itmmeta=01M0XAS14Y1Y3XCG1HNF0SY8G3&hash=itemba640466ac:g:KbgAAeSwSHBqh3XW",
+          "url": "https://www.ebay.com/itm/800541927084?itmmeta=01M0XD8SC7315SS7Z2H83K2ADF&hash=itemba640466ac:g:KbgAAeSwSHBqh3XW",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541927086": {
           "title": "Dell Latitude 5530 15.6\" 16GB 512GB, Silver",
@@ -52687,10 +52876,10 @@
         },
         "800541927087": {
           "title": "HP 17-CR0013DX 17.3\" 32GB 256GB, Silver",
-          "url": "https://www.ebay.com/itm/800541927087?itmmeta=01M0XAS14YVHS2FGASDDWNH7VP&hash=itemba640466af:g:H08AAeSwl01qh3Xl",
+          "url": "https://www.ebay.com/itm/800541927087?itmmeta=01M0XD8SC7P7ARV4KE4TTBG8PE&hash=itemba640466af:g:H08AAeSwl01qh3Xl",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541927091": {
           "title": "Lenovo Thinkpad X1 Carbon Gen 9 14\" 16GB 512GB, Black",
@@ -52708,17 +52897,17 @@
         },
         "800541926185": {
           "title": "Dell Precision 3550 15.6\" 8GB 256GB, Titan Gray",
-          "url": "https://www.ebay.com/itm/800541926185?itmmeta=01M0XAS14YQBQ52B14KYHQ7K2Y&hash=itemba64046329:g:8TkAAeSwzf9qh3Td",
+          "url": "https://www.ebay.com/itm/800541926185?itmmeta=01M0XD8SC7TXRJDXS4407RPGDC&hash=itemba64046329:g:8TkAAeSwzf9qh3Td",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541926187": {
           "title": "Dell Latitude 5411 14\" 16GB 256GB, Titan Grey",
-          "url": "https://www.ebay.com/itm/800541926187?itmmeta=01M0XAS14Z78ND1E6NPQKRHV4S&hash=itemba6404632b:g:tHUAAeSwS7Zqh3VT",
+          "url": "https://www.ebay.com/itm/800541926187?itmmeta=01M0XD8SC75W9J9WHGQDXKMX93&hash=itemba6404632b:g:tHUAAeSwS7Zqh3VT",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541926188": {
           "title": "Lenovo Thinkpad L14 Gen 1 14\" 16GB 256GB, Black",
@@ -52764,10 +52953,10 @@
         },
         "800541926197": {
           "title": "Dell Precision 7550 15.6\" 16GB 256GB, Titan Grey",
-          "url": "https://www.ebay.com/itm/800541926197?itmmeta=01M0XAS14ZN1PRW5ZDWKPYMEJE&hash=itemba64046335:g:M0kAAeSw7Slqh3UX",
+          "url": "https://www.ebay.com/itm/800541926197?itmmeta=01M0XD8SC8RW8CMQS1983VXH4D&hash=itemba64046335:g:M0kAAeSw7Slqh3UX",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541926199": {
           "title": "Lenovo Thinkpad T14 Gen 1 14\" 16GB 512GB, Black",
@@ -52778,24 +52967,24 @@
         },
         "800541926200": {
           "title": "HP Pavilion 15-CS0000 15.6\" 16GB 256GB, Natural Silver",
-          "url": "https://www.ebay.com/itm/800541926200?itmmeta=01M0XAS14Z2VPCJ0VBVBJ2AC35&hash=itemba64046338:g:FNMAAeSwk1Jqh3Td",
+          "url": "https://www.ebay.com/itm/800541926200?itmmeta=01M0XD8SC8E1122MPN7EBN7WW3&hash=itemba64046338:g:FNMAAeSwk1Jqh3Td",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541926201": {
           "title": "Lenovo ThinkPad P14s Gen 2 14\" 16GB 512GB, Silver",
-          "url": "https://www.ebay.com/itm/800541926201?itmmeta=01M0XAS14ZYP90DH90MKS0ATDZ&hash=itemba64046339:g:~PAAAeSwUkpqh3XG",
+          "url": "https://www.ebay.com/itm/800541926201?itmmeta=01M0XD8SC8H2YJGRJM2D50ZSAE&hash=itemba64046339:g:~PAAAeSwUkpqh3XG",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541926203": {
           "title": "HP ProBook 440 G8 14\" 16GB 256GB, Pike Silver",
-          "url": "https://www.ebay.com/itm/800541926203?itmmeta=01M0XAS14ZVSVBJ7M3WT4HS14N&hash=itemba6404633b:g:gtMAAeSwbS9qh3Tc",
+          "url": "https://www.ebay.com/itm/800541926203?itmmeta=01M0XD8SC83EAPPAY21DCFF6WQ&hash=itemba6404633b:g:gtMAAeSwbS9qh3Tc",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541926205": {
           "title": "MSI Sword 15 A12UE 15.6\" 8GB 256GB, White",
@@ -52855,10 +53044,10 @@
         },
         "800541623673": {
           "title": "Dell Latitude 7490 14\" 16GB 512GB, Black",
-          "url": "https://www.ebay.com/itm/800541623673?itmmeta=01M0XAS14ZTNGDHG3ZHG2WKE3F&hash=itemba63ffc579:g:EUcAAeSwxB9qh2Fa",
+          "url": "https://www.ebay.com/itm/800541623673?itmmeta=01M0XD8SC8P2KYHSQPXA30PVDK&hash=itemba63ffc579:g:EUcAAeSwxB9qh2Fa",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541623653": {
           "title": "HP Elitebook X360 830 G8 13.3\" 32GB 1TB, Silver",
@@ -52869,10 +53058,10 @@
         },
         "800541623655": {
           "title": "Dell Precision 7540 15.6\" 32GB 256GB, Titan Grey",
-          "url": "https://www.ebay.com/itm/800541623655?itmmeta=01M0XAS14ZG6P4D0FH61NXX0E7&hash=itemba63ffc567:g:QGcAAeSwzVlqh2GT",
+          "url": "https://www.ebay.com/itm/800541623655?itmmeta=01M0XD8SC832D63A5YREJRSQC2&hash=itemba63ffc567:g:QGcAAeSwzVlqh2GT",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541623656": {
           "title": "Lenovo ThinkPad T14S Gen 1 14\" 16GB 512GB, Black",
@@ -52883,10 +53072,10 @@
         },
         "800541623657": {
           "title": "HP 15-DY2152WM 15.6\" 8GB 512GB, Natural Silver",
-          "url": "https://www.ebay.com/itm/800541623657?itmmeta=01M0XAS14ZH64WGAWQ8H5DH2XM&hash=itemba63ffc569:g:P4wAAeSw-95qh2HS",
+          "url": "https://www.ebay.com/itm/800541623657?itmmeta=01M0XD8SC8TT1F4GW6VCG5WWEP&hash=itemba63ffc569:g:P4wAAeSw-95qh2HS",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541623660": {
           "title": "Dell Precision 5680 16\" 32GB 512GB, Titan Gray",
@@ -52918,10 +53107,10 @@
         },
         "800541623266": {
           "title": "Dell Precision 7740 17.3\" 32GB 256GB, Gray",
-          "url": "https://www.ebay.com/itm/800541623266?itmmeta=01M0XAS14ZN2FR69MVS2DYRC3V&hash=itemba63ffc3e2:g:FYsAAeSwM2lqh2I1",
+          "url": "https://www.ebay.com/itm/800541623266?itmmeta=01M0XD8SC8F8KDMZPZ7KHEEMZH&hash=itemba63ffc3e2:g:FYsAAeSwM2lqh2I1",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541623267": {
           "title": "Lenovo Thinkpad P17 Gen 1 17.3\" 32GB 256GB, Black",
@@ -52932,10 +53121,10 @@
         },
         "800541623268": {
           "title": "Lenovo Thinkpad T14 Gen 3 14\" 16GB 1TB, Thunder Black",
-          "url": "https://www.ebay.com/itm/800541623268?itmmeta=01M0XAS14ZAD1EPMCFVVH9VVBB&hash=itemba63ffc3e4:g:jfEAAeSwqlBqh2FH",
+          "url": "https://www.ebay.com/itm/800541623268?itmmeta=01M0XD8SC83NB4WHD6PBCD6GHB&hash=itemba63ffc3e4:g:jfEAAeSwqlBqh2FH",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541623269": {
           "title": "Lenovo Thinkpad P1 Gen 4 16\" 32GB 512GB, Thunder Black",
@@ -52953,17 +53142,17 @@
         },
         "800541623271": {
           "title": "Dell Precision 7550 15.6\" 32GB 256GB, Titan Grey",
-          "url": "https://www.ebay.com/itm/800541623271?itmmeta=01M0XAS14ZVD20B6J1125ZR6QF&hash=itemba63ffc3e7:g:-j8AAeSwGFpqh2FF",
+          "url": "https://www.ebay.com/itm/800541623271?itmmeta=01M0XD8SC9YN8D2CT5VVBVNTC8&hash=itemba63ffc3e7:g:-j8AAeSwGFpqh2FF",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541623272": {
           "title": "Dell Precision 3551 15.6\" 32GB 512GB, Grey",
-          "url": "https://www.ebay.com/itm/800541623272?itmmeta=01M0XAS14ZJSN3C800VMDEGHPY&hash=itemba63ffc3e8:g:sGQAAeSwzadqh2Iz",
+          "url": "https://www.ebay.com/itm/800541623272?itmmeta=01M0XD8SC9K8YP3838TKXQJ7BD&hash=itemba63ffc3e8:g:sGQAAeSwzadqh2Iz",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541623275": {
           "title": "Dell Precision 7550 15.6\" 16GB 256GB, Titan Grey",
@@ -52981,10 +53170,10 @@
         },
         "800541623278": {
           "title": "HP Elitebook X360 830 G8 13.5\" 16GB 512GB, Silver",
-          "url": "https://www.ebay.com/itm/800541623278?itmmeta=01M0XAS14Z500HHHXNQWVXTQ9Q&hash=itemba63ffc3ee:g:~c8AAeSw7zhqh2I3",
+          "url": "https://www.ebay.com/itm/800541623278?itmmeta=01M0XD8SC98SCPJTBBQCDV3B2X&hash=itemba63ffc3ee:g:~c8AAeSw7zhqh2I3",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541623280": {
           "title": "HP Elitebook X360 830 G7 13.3\" 16GB 256GB, Silver",
@@ -52995,17 +53184,17 @@
         },
         "800541623281": {
           "title": "Samsung Galaxy Book Flex2 Alpha NP730QDA, Royal Silver",
-          "url": "https://www.ebay.com/itm/800541623281?itmmeta=01M0XAS14ZG3P8MJTCGY9N8N9T&hash=itemba63ffc3f1:g:N1oAAeSw0Bpqh2I2",
+          "url": "https://www.ebay.com/itm/800541623281?itmmeta=01M0XD8SC9Y98QJ7WQ28RJF5H5&hash=itemba63ffc3f1:g:N1oAAeSw0Bpqh2I2",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541623282": {
           "title": "Dell Latitude 7410 14\" 16GB 1TB, Gray",
-          "url": "https://www.ebay.com/itm/800541623282?itmmeta=01M0XAS14Z5XDQG7MHR6YN6XMS&hash=itemba63ffc3f2:g:Cu0AAeSwRjVqh2GB",
+          "url": "https://www.ebay.com/itm/800541623282?itmmeta=01M0XD8SC91DKVH3MEGJ0CSCTA&hash=itemba63ffc3f2:g:Cu0AAeSwRjVqh2GB",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541623283": {
           "title": "Dell Latitude 5511 15.6\" 16GB 256GB, Grey",
@@ -53016,17 +53205,17 @@
         },
         "800541623284": {
           "title": "HP Elitebook X360 830 G8 13.3\" 32GB 512GB, Silver",
-          "url": "https://www.ebay.com/itm/800541623284?itmmeta=01M0XAS14ZZHY21M7EDFDADRQ7&hash=itemba63ffc3f4:g:ArMAAeSwGFpqh2I3",
+          "url": "https://www.ebay.com/itm/800541623284?itmmeta=01M0XD8SC9478AD19H2855TTHS&hash=itemba63ffc3f4:g:ArMAAeSwGFpqh2I3",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541619083": {
           "title": "Dell Latitude 5520 15.6\" 8GB 256GB, Dark Gray",
-          "url": "https://www.ebay.com/itm/800541619083?itmmeta=01M0XAS14ZV16JSCAN1XFZ9E0D&hash=itemba63ffb38b:g:998AAeSwS9dqh2Ew",
+          "url": "https://www.ebay.com/itm/800541619083?itmmeta=01M0XD8SC9053KZ8G3VJPE7YZS&hash=itemba63ffb38b:g:998AAeSwS9dqh2Ew",
           "price": null,
           "firstSeenAt": "2026-08-21T01:51:45.006Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541619085": {
           "title": "Dell Latitude 5430 14\" 32GB 256GB, Grey",
@@ -53758,10 +53947,10 @@
         },
         "800541928540": {
           "title": "HP 14-DQ2031WM 14\" 8GB 256GB, Natural Silver",
-          "url": "https://www.ebay.com/itm/800541928540?itmmeta=01M0XAS14X32NFPHFBJGQYQNAC&hash=itemba64046c5c:g:bb4AAeSwskFqh3YQ",
+          "url": "https://www.ebay.com/itm/800541928540?itmmeta=01M0XD8SC6BEV1NSW4V9T90A58&hash=itemba64046c5c:g:bb4AAeSwskFqh3YQ",
           "price": null,
           "firstSeenAt": "2026-08-21T03:04:43.102Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541928546": {
           "title": "Lenovo Thinkpad T14 Gen 2 14\" 16GB 1TB, Black",
@@ -53800,24 +53989,24 @@
         },
         "800541927070": {
           "title": "HP Probook 640 G8 14\" 16GB 256GB, Silver",
-          "url": "https://www.ebay.com/itm/800541927070?itmmeta=01M0XAS14YWM8NZKY2EW9YE0TF&hash=itemba6404669e:g:RYcAAeSw92lqh3Vv",
+          "url": "https://www.ebay.com/itm/800541927070?itmmeta=01M0XD8SC7M4VS48M2AZ4XGRKW&hash=itemba6404669e:g:RYcAAeSw92lqh3Vv",
           "price": null,
           "firstSeenAt": "2026-08-21T03:04:43.102Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541927074": {
           "title": "HP ZBook Firefly 14 G7 14\" 16GB 256GB, Silver",
-          "url": "https://www.ebay.com/itm/800541927074?itmmeta=01M0XAS14YBW88VBP44GVEJA0C&hash=itemba640466a2:g:~4kAAeSwVppqh3U2",
+          "url": "https://www.ebay.com/itm/800541927074?itmmeta=01M0XD8SC7Z4X6PSD0YV75A1H2&hash=itemba640466a2:g:~4kAAeSwVppqh3U2",
           "price": null,
           "firstSeenAt": "2026-08-21T03:04:43.102Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541927082": {
           "title": "Dell Latitude 3420 14\" 16GB 512GB, Black",
-          "url": "https://www.ebay.com/itm/800541927082?itmmeta=01M0XAS14YP08TWA3YKD7XTJ9C&hash=itemba640466aa:g:sykAAeSwt3xqh3U4",
+          "url": "https://www.ebay.com/itm/800541927082?itmmeta=01M0XD8SC7HSHBD5K8YCBXHWTN&hash=itemba640466aa:g:sykAAeSwt3xqh3U4",
           "price": null,
           "firstSeenAt": "2026-08-21T03:04:43.102Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541926183": {
           "title": "Lenovo ThinkPad T14 Gen 2 14\" 16GB 1TB, Black",
@@ -53842,10 +54031,10 @@
         },
         "800546041940": {
           "title": "Bose - QuietComfort Wireless Noise Cancelling Over-the-Ear Bluetooth Headphones",
-          "url": "https://www.ebay.com/itm/800546041940?itmmeta=01M0XAS14X9EWHXN0B97VNB4H0&hash=itemba64433054:g:eqAAAeSwS7ZqiHqy",
+          "url": "https://www.ebay.com/itm/800546041940?itmmeta=01M0XD8SC5HE6VA2DZMDWJR7ZF&hash=itemba64433054:g:eqAAAeSwS7ZqiHqy",
           "price": null,
           "firstSeenAt": "2026-08-21T16:36:38.456Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541926196": {
           "title": "HP Probook 440 G8 14\" 16GB 256GB, Silver",
@@ -53856,10 +54045,10 @@
         },
         "800546677489": {
           "title": "Samsung Galaxy S22 128GB Verizon, Phantom Black",
-          "url": "https://www.ebay.com/itm/800546677489?epid=25072294038&itmmeta=01M0XAS14X5P55HHA42FK8XAAF&hash=itemba644ce2f1:g:CZEAAeSwl01qiKXb",
+          "url": "https://www.ebay.com/itm/800546677489?epid=25072294038&itmmeta=01M0XD8SC51M4Y34XFKX61ZCES&hash=itemba644ce2f1:g:CZEAAeSwl01qiKXb",
           "price": null,
           "firstSeenAt": "2026-08-21T19:41:03.393Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800546812497": {
           "title": "Apple iPhone 16e 128GB 6.1\" Unlocked, Black",
@@ -53870,45 +54059,45 @@
         },
         "800541926202": {
           "title": "Dell Latitude 3420 14.0\" 16GB 512GB, Black",
-          "url": "https://www.ebay.com/itm/800541926202?itmmeta=01M0XAS14ZSB911PZ61VJ052HS&hash=itemba6404633a:g:P5YAAeSwbp5qh3VY",
+          "url": "https://www.ebay.com/itm/800541926202?itmmeta=01M0XD8SC8X37BBM0XW9M35CDE&hash=itemba6404633a:g:P5YAAeSwbp5qh3VY",
           "price": null,
           "firstSeenAt": "2026-08-21T23:39:34.613Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800546300796": {
           "title": "Alienware Area-51 R5 (16GB, 512GB SSD, i7-7800X, GTX 1070) Win11H",
-          "url": "https://www.ebay.com/itm/800546300796?itmmeta=01M0XAS14X870N2WB9QPANA5Z6&hash=itemba6447237c:g:DrQAAeSw5B5qiI6L",
+          "url": "https://www.ebay.com/itm/800546300796?itmmeta=01M0XD8SC5F3WZN7KCAKYEHPRG&hash=itemba6447237c:g:DrQAAeSw5B5qiI6L",
           "price": null,
           "firstSeenAt": "2026-08-22T01:44:07.839Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800545437609": {
           "title": "Fovitec 2-Stand Kit with Carrying Bag (7.6')",
-          "url": "https://www.ebay.com/itm/800545437609?itmmeta=01M0XAS14XG6WSSM2PX8VM8DWW&hash=itemba6439f7a9:g:DVUAAeSwS8tqiFZ8",
+          "url": "https://www.ebay.com/itm/800545437609?itmmeta=01M0XD8SC58HRZHYBJ8R9TR535&hash=itemba6439f7a9:g:DVUAAeSwS8tqiFZ8",
           "price": null,
           "firstSeenAt": "2026-08-22T01:44:07.839Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800545437511": {
           "title": "Lenovo Smart Clock Essential With Alexa, Misty Blue",
-          "url": "https://www.ebay.com/itm/800545437511?itmmeta=01M0XAS14X0RKBRXWX5KK62TND&hash=itemba6439f747:g:m2wAAeSwhYZqiFYc",
+          "url": "https://www.ebay.com/itm/800545437511?itmmeta=01M0XD8SC6XH6C41R6Y3W483RT&hash=itemba6439f747:g:m2wAAeSwhYZqiFYc",
           "price": null,
           "firstSeenAt": "2026-08-22T01:44:07.839Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800546677585": {
           "title": "Dell Optiplex 3090 Micro (8GB, 256GB SSD, i5-10500T 2.30GHz) Win11P, Black",
-          "url": "https://www.ebay.com/itm/800546677585?itmmeta=01M0XAS14X6AT1EETJ4WP94PS4&hash=itemba644ce351:g:Ra8AAeSwNRJqiKZg",
+          "url": "https://www.ebay.com/itm/800546677585?itmmeta=01M0XD8SC5VYC9BC4F5M6H2C0G&hash=itemba644ce351:g:Ra8AAeSwNRJqiKZg",
           "price": null,
           "firstSeenAt": "2026-08-22T02:41:18.093Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800546300794": {
           "title": "Alienware Area-51 R5 (16GB, 256GB SSD, i7-7800X, GTX 1070) Win11H",
-          "url": "https://www.ebay.com/itm/800546300794?itmmeta=01M0XAS14XTS51BP6JN9PC6210&hash=itemba6447237a:g:VJoAAeSw2HNqiI4c",
+          "url": "https://www.ebay.com/itm/800546300794?itmmeta=01M0XD8SC5X4MFCG0F693KNHHR&hash=itemba6447237a:g:VJoAAeSw2HNqiI4c",
           "price": null,
           "firstSeenAt": "2026-08-22T02:41:18.093Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800545437427": {
           "title": "Lenovo Thinkpad X1 Yoga Gen 5 13.9\" 16GB, Iron Gray",
@@ -53919,17 +54108,17 @@
         },
         "800541926204": {
           "title": "HP Elitebook 845 G7 14\" 16GB 512GB, Natural Silver",
-          "url": "https://www.ebay.com/itm/800541926204?itmmeta=01M0XAS14ZGD51CXCMJWTYDKSM&hash=itemba6404633c:g:QbYAAeSwNuRqh3WT",
+          "url": "https://www.ebay.com/itm/800541926204?itmmeta=01M0XD8SC8PK8Q3ZSBGG0EV042&hash=itemba6404633c:g:QbYAAeSwNuRqh3WT",
           "price": null,
           "firstSeenAt": "2026-08-22T18:32:46.793Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541623661": {
           "title": "HP Zbook 15 G6 15.6\" 16GB 512GB, Silver",
-          "url": "https://www.ebay.com/itm/800541623661?itmmeta=01M0XAS14ZN3F6TTJMG6MRSPYF&hash=itemba63ffc56d:g:o5QAAeSw7Slqh2ID",
+          "url": "https://www.ebay.com/itm/800541623661?itmmeta=01M0XD8SC8WSM8899NB0NB55QD&hash=itemba63ffc56d:g:o5QAAeSw7Slqh2ID",
           "price": null,
           "firstSeenAt": "2026-08-22T23:22:43.849Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800541623667": {
           "title": "Dell XPS 15 9500 15.6\" 32GB 1TB, Platinum Sliver",
@@ -53975,66 +54164,66 @@
         },
         "800557230039": {
           "title": "Apple iPhone 8 Plus 64GB 5.5\" AT&T, Silver",
-          "url": "https://www.ebay.com/itm/800557230039?epid=239092875&itmmeta=01M0XAS14XEZZAREX6ZNS2B4Z7&hash=itemba64ede7d7:g:FZ0AAeSwVf1qjJC4",
+          "url": "https://www.ebay.com/itm/800557230039?epid=239092875&itmmeta=01M0XD8SC5Z21BN8SEB0Q6RYNX&hash=itemba64ede7d7:g:FZ0AAeSwVf1qjJC4",
           "price": null,
           "firstSeenAt": "2026-08-24T18:52:06.962Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800557555552": {
           "title": "Apple iPhone SE (2nd Gen) 64GB T-Mobile, Black",
-          "url": "https://www.ebay.com/itm/800557555552?epid=12064992193&itmmeta=01M0XAS14X1GHP6F1ZBK1Y6S4W&hash=itemba64f2df60:g:aj4AAeSwZERqjKcX",
+          "url": "https://www.ebay.com/itm/800557555552?epid=12064992193&itmmeta=01M0XD8SC5650SF2249WK2AR5V&hash=itemba64f2df60:g:aj4AAeSwZERqjKcX",
           "price": null,
           "firstSeenAt": "2026-08-24T20:48:43.861Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800557555627": {
           "title": "Bose QuietComfort Ultra Earbuds (2nd Gen) - Black",
-          "url": "https://www.ebay.com/itm/800557555627?itmmeta=01M0XAS14XEB8NPWYD91ZK9133&hash=itemba64f2dfab:g:eqcAAeSw3h9qjKdM",
+          "url": "https://www.ebay.com/itm/800557555627?itmmeta=01M0XD8SC43F0APFBG6F5ESXV2&hash=itemba64f2dfab:g:eqcAAeSw3h9qjKdM",
           "price": null,
           "firstSeenAt": "2026-08-25T01:45:28.552Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800557230105": {
           "title": "STM Dux iPad Air (1st Gen) Case",
-          "url": "https://www.ebay.com/itm/800557230105?itmmeta=01M0XAS14XNQME5J1SZJXBGMCW&hash=itemba64ede819:g:sXMAAeSwCjpqjJCE",
+          "url": "https://www.ebay.com/itm/800557230105?itmmeta=01M0XD8SC5W77W47S4TD7KS7C5&hash=itemba64ede819:g:sXMAAeSwCjpqjJCE",
           "price": null,
           "firstSeenAt": "2026-08-25T01:45:28.552Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800557555703": {
           "title": "Dell Optiplex 7080 Micro (8GB, 512GB SSD, i5-10500T 2.30GHz) Win11P, Black",
-          "url": "https://www.ebay.com/itm/800557555703?itmmeta=01M0XAS14X8SN452S3ZMM89GR7&hash=itemba64f2dff7:g:JZgAAeSw-dlqjKbl",
+          "url": "https://www.ebay.com/itm/800557555703?itmmeta=01M0XD8SC4DJ3AH3QGP18781F4&hash=itemba64f2dff7:g:JZgAAeSw-dlqjKbl",
           "price": null,
           "firstSeenAt": "2026-08-25T03:00:16.229Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800557555706": {
           "title": "Dell Optiplex 7080 Micro (8GB, 512GB SSD, i5-10500T 2.30GHz) Win11P, Black",
-          "url": "https://www.ebay.com/itm/800557555706?itmmeta=01M0XAS14XSVSV8X4NHVGTBMF4&hash=itemba64f2dffa:g:-KAAAeSwvk9qjKbn",
+          "url": "https://www.ebay.com/itm/800557555706?itmmeta=01M0XD8SC4N8MTN8Q52Q65DTJZ&hash=itemba64f2dffa:g:-KAAAeSwvk9qjKbn",
           "price": null,
           "firstSeenAt": "2026-08-25T03:00:16.229Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800557555707": {
           "title": "Dell Optiplex 5090 MIcro (16GB, 512GB SSD, i5-11500T 1.50GHz) Win11P",
-          "url": "https://www.ebay.com/itm/800557555707?itmmeta=01M0XAS14XNX80AZVHRMVRFT8S&hash=itemba64f2dffb:g:TLwAAeSwIMRqjKar",
+          "url": "https://www.ebay.com/itm/800557555707?itmmeta=01M0XD8SC49XPA86PB7AB2XGBS&hash=itemba64f2dffb:g:TLwAAeSwIMRqjKar",
           "price": null,
           "firstSeenAt": "2026-08-25T03:00:16.229Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800557008777": {
           "title": "STM dux Case for iPad Air 2 - Black",
-          "url": "https://www.ebay.com/itm/800557008777?itmmeta=01M0XAS14X8NH25Y3CP1QHRPPQ&hash=itemba64ea8789:g:8BgAAeSw1PxqjIMM",
+          "url": "https://www.ebay.com/itm/800557008777?itmmeta=01M0XD8SC5GKES0GVTK232RHPN&hash=itemba64ea8789:g:8BgAAeSw1PxqjIMM",
           "price": null,
           "firstSeenAt": "2026-08-25T03:00:16.229Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800556108501": {
           "title": "Dell P2222H 21.5\" FHD 1080p Monitor, Black, 1920 x 1080, IPS, 5ms",
-          "url": "https://www.ebay.com/itm/800556108501?itmmeta=01M0XAS14XK4K9K1Z7T018C4X9&hash=itemba64dccad5:g:WKAAAeSwmX1qjEnc",
+          "url": "https://www.ebay.com/itm/800556108501?itmmeta=01M0XD8SC58FB3FYAPZP8DFXBZ&hash=itemba64dccad5:g:WKAAAeSwmX1qjEnc",
           "price": null,
           "firstSeenAt": "2026-08-25T03:00:16.229Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800556108302": {
           "title": "WD - BLACK 4TB Gaming Internal Hard Drive",
@@ -54045,10 +54234,10 @@
         },
         "800556108037": {
           "title": "PNY NVIDIA NVS 810 4GB DDR3 Graphics Card",
-          "url": "https://www.ebay.com/itm/800556108037?itmmeta=01M0XAS14XY0SWFTCV1K2QGYXS&hash=itemba64dcc905:g:XwIAAeSwWkZqjEpO",
+          "url": "https://www.ebay.com/itm/800556108037?itmmeta=01M0XD8SC5JBF89X7HYDM2NSK9&hash=itemba64dcc905:g:XwIAAeSwWkZqjEpO",
           "price": null,
           "firstSeenAt": "2026-08-25T03:00:16.229Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         },
         "800561305879": {
           "title": "Samsung Galaxy Book Flex2 Alpha 730QDA, Mystic Black",
@@ -54059,10 +54248,10 @@
         },
         "800561580094": {
           "title": "Jabra UC Voice 250 MS Wired Headset",
-          "url": "https://www.ebay.com/itm/800561580094?itmmeta=01M0XAS14XBJA9TG6GDXS6CHGT&hash=itemba6530483e:g:P~sAAeSwnp1qjb77",
+          "url": "https://www.ebay.com/itm/800561580094?itmmeta=01M0XD8SC4NCC1GCDPFG4J05AQ&hash=itemba6530483e:g:P~sAAeSwnp1qjb77",
           "price": null,
           "firstSeenAt": "2026-08-25T16:49:17.046Z",
-          "lastSeenAt": "2026-08-25T20:46:20.778Z"
+          "lastSeenAt": "2026-08-25T21:29:54.310Z"
         }
       }
     },
