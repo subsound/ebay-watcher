@@ -65653,7 +65653,7 @@
     },
     "divide": {
       "initialized": true,
-      "lastScanAt": "2026-10-01T11:25:51.573Z",
+      "lastScanAt": "2026-10-01T21:57:36.190Z",
       "knownItems": {
         "366279703265": {
           "title": "Nova na Caixa Logitech c925e Business Webcam (960-001075) - 1080P Full HD - 30 FPS",
@@ -66616,10 +66616,10 @@
         },
         "366672886193": {
           "title": "Raspberry Pi Pico - NEW in Sleeve - Lot of 400 w/ plastic protective plaques!",
-          "url": "https://www.ebay.com/itm/366672886193?itmmeta=01M3VKDAZ2XYSPVD9VDTPR1TGY&hash=item555f6839b1:g:yUQAAeSw21dqqqBB",
+          "url": "https://www.ebay.com/itm/366672886193?itmmeta=01M3WQJ3HBSCP78WMET7DWSNFA&hash=item555f6839b1:g:yUQAAeSw21dqqqBB",
           "price": null,
           "firstSeenAt": "2026-09-16T16:57:31.419Z",
-          "lastSeenAt": "2026-10-01T11:25:51.574Z"
+          "lastSeenAt": "2026-10-01T21:57:36.190Z"
         },
         "366682937624": {
           "title": "Ok (C) Grade Lenovo L14 G4 14\" 256GB SSD 16GB RAM Ryzen 5 Pro CPU NO OS!",
@@ -66641,6 +66641,13 @@
           "price": null,
           "firstSeenAt": "2026-09-21T18:55:05.662Z",
           "lastSeenAt": "2026-09-22T01:05:09.893Z"
+        },
+        "366704652580": {
+          "title": "Great (A) Grade Dell Latitude 7650 16\" - 512GB SSD 16GB RAM Ultra 7 CPU - NO OS!",
+          "url": "https://www.ebay.com/itm/366704652580?itmmeta=01M3WQJ3HBP04XHNPHBQZZ7V1B&hash=item55614cf124:g:8j8AAeSw3EVqiE53",
+          "price": null,
+          "firstSeenAt": "2026-10-01T21:57:36.190Z",
+          "lastSeenAt": "2026-10-01T21:57:36.190Z"
         }
       }
     }
